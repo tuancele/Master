@@ -1,0 +1,283 @@
+/*
+	Theme Name: master-gf
+	Theme URI: http://f10.vn
+	Text Domain: master-gf
+	License: MIT
+	License URI: http://opensource.org/licenses/mit-license.php
+	Version: 0.0.9
+*/
+
+/*------------------------------------*\
+    MAIN
+\*------------------------------------*/
+
+
+.mm-slideout{z-index: initial;}
+.footer{    background: #f5f5fa;margin-bottom: -30px;}
+.new_footer_top {
+    padding: 50px 0 270px;
+    position: relative;}
+
+.entry-content p {
+font-size: 16px;
+}
+.info-company .info-detail .menu-title ul li.active{display: none;}
+.entry-content p {font-size: 16px;}
+.info-company .info-detail {padding-right: 32px;
+    box-sizing: border-box;}
+.info-detail {display: inline-block;
+    margin-top: 45px;
+    height: 222px;}
+.info-company .info-detail .menu-title {background: #fff;
+    border-radius: 4px;}
+.info-company .info-detail .menu-title ul li {text-align: center;}
+.info-company .info-detail .menu-title ul li.active {border-left: 2px solid #0098da;}
+.info-company .title-main {
+    font-size: 18px;
+    font-weight: 600;
+    color: #3d4d65;
+    box-sizing: border-box;}
+.info-company .info-detail .menu-title .title-main {
+    background: #fff;
+    display: inline-block;
+    width: 100%;
+    padding: 18px 0;
+    text-align: left;
+    width: 88%;
+    font-size: 16px;}
+.info-company .info-detail .menu-title .title-main.introduce {border-bottom: 1px solid #ddd;}
+
+
+.info-company .info-detail .menu-title .title-main.introduce:before {
+    content: "";
+    background: url(https://static.homedy.com/src/images/company/gioithieu.svg) no-repeat center;
+    height: 22px;
+    width: 22px;
+    display: inline-block;
+    margin-right: 10px;
+    float: left;}
+.info-company .info-detail .menu-title .title-main.title-main-project:before {
+    content: "";
+    background: url(https://static.homedy.com/src/images/company/duan.svg) no-repeat center;
+    height: 22px;
+    width: 22px;
+    display: inline-block;
+    margin-right: 10px;
+    float: left;}
+
+.info-company .info-detail .menu-title .title-main h2 {
+    font-weight: normal;
+    font-size: 16px;}
+.info-company .title-sub {font-size: 15px;
+    color: #545454;}
+.info-company .menu-title ul li a.title-sub {
+    display: inline-block;
+    margin-bottom: 15px;
+    padding: 0 0 0 55px;
+    width: 100%;
+    box-sizing: border-box;
+    text-align: left;}
+.info-detail-right {
+    font-size: 17px;
+    color: #3d4d65;
+    line-height: 23px;
+    text-align: left;
+    font-weight: normal;}
+.info-detail-right {display: inline-block;
+    margin-top: 45px;}
+.content-info{background: #ebebeb;}
+.info-detail-right .info-detail-right-content {
+    background: #fff;
+    border-radius: 4px;
+    padding: 20px;}
+.info-detail-right .info-detail-right-content .title-main {
+    padding-bottom: 20px;
+    font-size: 20px;}
+.info-detail-right .info-detail-right-content .item-detail:not(:last-child) {margin-bottom: 7px;}
+.info-detail-right .info-detail-right-content .item-detail .text-label {
+    font-size: 15px;
+    float: left;
+    width: 15%;
+    color: #545454;}
+.info-detail-right .info-detail-right-content .item-detail .text-right {
+    width: calc(100% - 15%);
+    display: inline-block;
+    font-size: 15px;text-align: left;
+    color: #3d4d65;}
+.project {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 45px;}
+.desktop-hidden {display: none;}
+.project .box-content {
+    display: inline-block;
+    width: 100%;}
+.project .box-content .content {
+    padding-right: 32px;}
+.project .box-content .content {
+    margin-top: 16px;}
+.info-detail-right .project .box-content .content {
+    padding-right: unset;}
+.project .tab {
+    display: none;
+    border-radius: 6px;
+    background: #fff;
+    width: 100%;
+    box-sizing: border-box;
+    height: 64px;}
+.project .tab .btn-tab {
+    padding: 12px 20px;
+    margin-right: 12px;
+    border-radius: 4px;
+    color: #fff;
+    background: #0098da;
+    font-size: 15px;
+    display: inline-block;
+    opacity: .6;}
+.project .tab .btn-tab.active, .project .tab .btn-tab:hover {opacity: 1;}
+.project .box-content .tab-content { margin-top: 25px;}
+.project .box-content .content .tab-content {
+    padding: 20px 20px !important;
+    box-sizing: border-box !important;
+    background: #fff;
+    border-radius: 5px;
+    margin-bottom: 30px;}
+.project .box-content .content .tab-content .left .title-main {
+    padding-top: 5px;
+    margin-bottom: 25px;
+    font-size: 20px;}
+.project .box-content .item {
+    display: inline-block;
+    width: 100%;
+    background: #fff;
+    margin-bottom: 25px;
+    height: 200px;
+    border: 1px solid #f0f0f0;
+    border-radius: 5px;
+    overflow: hidden;
+    box-sizing: border-box;}
+.project .box-content .thumb-image {
+    position: relative;}
+.project .box-content .item .thumb-image img, .project .box-content .item .info .detail .col .avatar img {
+    width: auto;
+    height: 100%;
+    max-width: unset;}
+.project .box-content .thumb-image .status {width: 87px ;
+    padding: 29px 0 2px 18px;}
+.project .box-content .thumb-image .status {
+    position: absolute;
+    top: -15px;
+    right: -32px;
+    width: 100px;
+    display: inline-block;
+    background: #fff;
+    -moz-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+    font-size: 11px;
+    padding: 32px 0 2px 18px;
+    color: #fff;}
+.project .box-content .item.color-basic .thumb-image .status {background-color: #3d4d65 !important;}
+.header-tops {
+    
+    height: 250px;
+    
+    width: 100%;}
+.header-tops .box-company {
+    display: inline-block;
+    width: 100%;
+    padding-top: 119px;}
+.header-tops .box-company .log-company {
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    border-radius: 50%;
+    background-color: #fff !important;
+    background-size: 90px !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    float: left;
+    margin-right: 30px;}
+.header-tops .box-company .name-title {
+    display: inline-block;
+    color: #fff;
+    font-weight: bold;
+    font-size: 28px;
+    padding-top: 49px;
+    text-transform: uppercase;
+    width: auto;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:768px) {
+
+.header-tops {
+height: 200px;
+background-size: cover;
+width: 100%;}
+.header-tops .box-company {padding-top: 105px;}
+.header-tops .box-company .log-company {
+    width: 80px;height: 80px;
+    margin-right: 20px;}
+.header-tops .box-company .name-title {
+    display: -webkit-box;
+height: 3.4em;
+line-height: 1.2em;
+font-size: 20px;
+padding-top: 0;}
+
+
+
+
+.info-company .info-detail {width: 100%;
+    padding-right: unset;
+    margin: 10px 0 0;}
+.mobile-none {display: none !important;}
+.info-company .info-detail .menu-title ul li {
+    width: 50%;
+    display: inline-block;
+    text-align: center;}
+.info-company .info-detail .menu-title ul li:first-child { border-left: unset;border-radius: unset;float: left;}
+.info-company .info-detail .menu-title .title-main {padding: 12px 14px;
+    width: unset;
+    border-bottom: unset !important;
+    font-size: 14px;
+    font-family: Roboto;}
+.info-detail-right .info-detail-right-content {padding: 20px 10px;}
+.info-detail-right .info-detail-right-content .item-detail:not(:last-child) {margin-bottom: 18px;}
+.info-detail-right .info-detail-right-content .item-detail .text-label {width: 32%;}
+.info-detail-right .info-detail-right-content .item-detail .text-right {width: calc(100% - 32%);}
+.info-detail {height: auto;
+    margin-top: 16px;}
+.info-company .info-detail-right {
+    display: block;
+    margin-top: unset;}
+.info-detail-right {font-size: 15px;}
+.project .box-content .content .tab-content{padding: 5px !important;}
+.box_pro .content_project .price_pro{font-size: 13px;
+height: 22px;
+overflow: hidden;
+padding: 0 0 12px;
+color: #3d4d65;
+line-height: 18px;
+border-bottom: 1px solid #ebebeb;}
+.project .box-content .item{height: auto;}
+
+
+
+
+
+}
+

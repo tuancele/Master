@@ -1,0 +1,886 @@
+.inputText, select, textarea{height: auto;}
+.more-feng-shui {
+    margin: 20px 0;
+    clear: left;}
+    .more-feng-shui .more-content {
+    background: #e5f4fb;
+    padding: 15px 17px;
+    border-radius: 5px;}
+    .more-feng-shui .more-content p:first-child {
+    font-size: 17px;
+    color: #27406d;margin-bottom: 0;
+    font-weight: 700;}
+    .more-feng-shui .more-content .see-feng-shui:nth-child(2) {
+    padding: 10px 0;}
+    .more-feng-shui .more-content .see-feng-shui .txt-cricle {
+    background: #174474;
+    width: 6px;
+    height: 6px;
+    margin-right: 8px;
+    border-radius: 50%;
+    display: block;
+    float: left;
+    margin-top: 7px;}
+    .more-feng-shui .more-content .see-feng-shui a {
+    font-size: 16px;
+    font-style: italic;color: #0098da;}
+.phongthuy-menu li{margin-right: 20px;}
+.nb {
+ background:#ebebeb;
+ height:100%;
+ padding:30px 0 0 0
+}
+.nb .active {
+ background:#0098da;
+ color:#fff !important
+}
+.nb .content .text-title {
+ font-size:28px;
+ font-weight:700;
+ color:#174474;
+ text-align:center
+}
+.nb .content .txt-text {
+ font-size:15px;
+ font-weight:400;
+ color:#354c76;
+ line-height:1.6
+}
+.nb .content .infomation-refer {
+ margin:10px 0
+}
+.nb .content .infomation-refer p {
+ font-size:15px;
+ line-height:1.6;
+ color:#27406d;
+ font-style:italic
+}
+.nb .content .tab .btn-button {
+ padding:10px 14px;
+ font-size:14px;
+ border:1px solid #a5afbd;
+ cursor:pointer;
+ font-weight:500;
+ border-radius:5px;
+ color:#174474
+}
+.nb .content .tab .btn-button.btn-buy-house {
+ margin:0 11px
+}
+.nb .content .tab {
+ padding:20px 0
+}
+.nb .content .tab .btn-button:hover {
+ background:#0098da;
+ color:#fff
+}
+.nb .content .title h3 {
+ font-size:20px;
+ color:#174474
+}
+.nb .content .direction .default-distance {
+ padding:0 50px
+}
+.nb .content .direction .title {
+ display:inline-block;
+ width:100%;
+ border-bottom:1px solid #ddd;
+ padding:10px 0 5px 0
+}
+.nb .content .direction .title .content-title {
+ width:30%;
+ margin:auto
+}
+.nb .content .direction {
+ width:100%;
+ display:inline-block;
+ background:#fff;
+ border-radius:5px
+}
+.nb .content .direction .content-direction {
+ width:100%;
+ display:inline-block;
+ padding:27px 0
+}
+.nb .content .direction .content-direction .icon-direction {
+ text-align:right
+}
+.nb .content .direction .content-direction .icon-direction img {
+ width:54%
+}
+.nb .content .direction .content-direction .icon-direction,
+.nb .content .direction .content-direction .info-see {
+ width:50%;
+ float:left
+}
+.nb .content .direction .content-direction .info-see .info-personal {
+ width:65%;
+ border:1px solid #bac4d3;
+ border-radius:5px;
+ margin-left:30px
+}
+.nb .content .direction .content-direction .info-see .info-personal .content-info {
+ padding:27px 47px
+}
+.nb .content .direction .content-direction .info-see .info-personal .content-info .gender {
+ margin:15px 0
+}
+.nb .content .direction .content-direction .info-see .info-personal .content-info .year,
+.nb .content .direction .content-direction .info-see .info-personal .content-info .gender {
+ width:100%;
+ display:inline-block
+}
+.nb .content .direction .content-direction .info-see .info-personal .content-info .year p,
+.nb .content .direction .content-direction .info-see .info-personal .content-info .gender p {
+ float:left;
+ width:60%;
+ font-size:15px;
+ font-weight:500;
+ color:#3e4e66;
+ padding:9px 0 0 0;
+ text-align:left
+}
+.nb .content .direction .content-direction .info-see .info-personal .content-info .year .slect-year,
+.nb .content .direction .content-direction .info-see .info-personal .content-info .gender .slect-gender {
+ width:29%;
+ float:right;
+ position:relative;
+ border:1px solid #9acee4;
+ background:#effaff;
+ border-radius:5px
+}
+.nb .content .direction .content-direction .info-see .info-personal .content-info .year .slect-year select,
+.nb .content .direction .content-direction .info-see .info-personal .content-info .gender .slect-gender select {
+ background:#effaff;
+ border-radius:5px;
+ padding:10px 0 10px 11px;
+ border:none;
+ width:100%;
+ cursor:pointer
+}
+.nb .content .direction .content-direction .info-see .info-personal .content-info .year .slect-year .drop,
+.nb .content .direction .content-direction .info-see .info-personal .content-info .gender .slect-gender .drop {
+ position:absolute;
+ top:7px;
+ right:7px;
+ display:inline-block;
+ width:14px;
+ height:15px;
+ background:url(https://static.homedy.com/src/images/icon/icon-desktop.png) no-repeat center;
+ background-position:-112px -97px;
+ border-left:5px solid transparent;
+ border-right:5px solid transparent
+}
+.nb .content .direction .content-direction .info-see .info-personal .content-info .result .btn-result {
+ width:100%;
+ padding:10px 0;
+ border:none;
+ color:#fff;
+ border-radius:5px;
+ background:#0098da;
+ font-size:14px;
+ cursor:pointer
+}
+.nb .content .default {
+ width:100%;
+ display:inline-block;
+ background:#fff;
+ margin:20px 0;
+ border-radius:5px
+}
+.nb .content .default .result {
+ display:none
+}
+.nb .content .default .content-default,
+.nb .content .default .result {
+ padding:0 50px
+}
+.nb .content .default .content-default .introduce p {
+ padding:3px 0
+}
+.nb .content .default .content-default .introduce .txt-dark {
+ color:#29426e;
+ font-weight:500
+}
+.nb .content .default .content-default .introduce .supply-destiny {
+ width:calc(100% - 19px);
+ float:left
+}
+.nb .content .default .content-default .introduce .crile {
+ width:5px;
+ height:5px;
+ margin-top:14px;
+ margin-right:12px;
+ float:left;
+ background:#3d4d65;
+ border-radius:50%;
+ display:inline-block
+}
+.nb .content .default .content-default .you-know {
+ border-bottom:1px solid #ddd
+}
+.nb .content .default .content-default .you-know p {
+ font-size:28px;
+ font-weight:700;
+ color:#174474;
+ text-align:center;
+ padding:14px 0;
+ font-family:'Roboto Condensed',sans-serif
+}
+.nb .content .default .content-default .supply .item {
+ padding-bottom:14px
+}
+.nb .content .default .content-default .supply .item .name-supply {
+ font-size:18px;
+ font-weight:900;
+ color:#fff;
+ background:#0094d9;
+ padding:4px 13px;
+ display:inline-block;
+ position:relative;
+ padding-right:40px;
+}
+.nb .content .default .content-default .supply .item .name-supply:after {
+ content:'';
+ display:inline-block;
+ position:absolute;
+ right:0;
+ top:0;
+ width:15px;
+ border-right:solid 15px #fff;
+ border-bottom:solid 15px transparent;
+ border-top:solid 15px transparent
+}
+.nb .content .default .content-default .supply {
+ display:inline-block;
+ width:100%;
+ margin:10px 0
+}
+.nb .content .default .content-default .supply .item .supply-bad {
+ background:#27406d
+}
+.nb .content .default .content-default .supply .item .txt-text {
+ padding:10px 0
+}
+.nb .content .default .content-default .introduce {
+ padding:14px 0
+}
+.nb .content .default .result .title-result p:first-child {
+ font-size:28px;
+ font-weight:500;
+ color:#174474;
+ text-align:center;
+ padding:14px 0;
+ border-bottom:1px solid #ddd;
+ font-family:'Roboto Condensed',sans-serif
+}
+.nb .content .default .result .info {
+ padding:20px 0;
+ border-bottom:1px solid #ddd
+}
+.nb .content .default .result .title-info {
+ text-align:center;
+ padding:12px 0;
+ font-size:25px;
+ color:#174474
+}
+.nb .content .default .result .title-info .my-par,
+.nb .content .default .result .title-info .par-age,
+.nb .content .default .result .title-info .par-age-year {
+ text-transform:uppercase
+}
+.nb .content .default .result .info .homeowners {
+ padding:20px 0;
+ width:100%;
+ display:inline-block
+}
+.nb .content .default .result .info .homeowners .homeowners-content {
+ width:75%;
+ margin:auto
+}
+.nb .content .default .result .info .homeowners .homeowners-content .info-detail {
+ width:56%;
+ float:left
+}
+.nb .content .default .result .info .homeowners .homeowners-content .info-detail .item-info {
+ width:100%;
+ display:inline-block;
+ padding-bottom:10px
+}
+.nb .content .default .result .info .homeowners .homeowners-content .info-detail .item-info:last-child {
+ padding-bottom:0
+}
+.nb .content .default .result .info .homeowners .homeowners-content .info-detail .item-info .txt-left {
+ float:left;
+ width:47%;
+ font-size:17px;
+ color:#27406d;
+ font-weight:700
+}
+.nb .content .default .result .info .homeowners .homeowners-content .info-detail .item-info .txt-right {
+ width:48%;
+ float:left;
+ font-size:16px;
+ color:#27406d;
+ padding-left:0
+}
+.nb .content .default .result .info .homeowners .homeowners-content .log-supply {
+ width:44%;
+ float:left;
+ text-align:right
+}
+.nb .content .default .result .info .homeowners .homeowners-content .info-detail .item-info .txt-circle {
+ background:#174474;
+ width:6px;
+ height:6px;
+ margin-right:8px;
+ border-radius:50%;
+ display:block;
+ float:left;
+ margin-top:7px
+}
+.nb .content .default .result .directions {
+ padding:20px 0 0 0
+}
+.nb .content .default .result .directions .direction-par .content-par {
+ padding:30px 0 0 0
+}
+.nb .content .default .result .directions .direction-par .content-par .compass {
+ width:50%;
+ float:left;
+ display:inline-block
+}
+.nb .content .default .result .directions .direction-par .content-par .compass .compass-content {
+ text-align:center;
+ position:relative;
+ top:-44px
+}
+.nb .content .default .result .directions .direction-par .content-par .compass .compass-content img {
+ width:90%
+}
+.nb .content .default .result .directions .direction-par .content-par .info-direction {
+ width:50%;
+ float:left
+}
+.nb .content .default .result .directions .direction-par .content-par .info-direction .type-direction .item {
+ margin-bottom:20px
+}
+.nb .content .default .result .directions .direction-par .content-par .info-direction .type-direction .note-fengshui {
+ margin-bottom:20px
+}
+.nb .content .default .result .directions .direction-par .content-par .info-direction .type-direction .note-fengshui p,
+.nb .content .default .result .note-fengshui p {
+ font-size:15px;
+ line-height:1.6;
+ color:#27406d;
+ font-style:italic
+}
+.nb .content .default .result .directions .direction-par .content-par .info-direction .type-direction .more-nb .more-content,
+.nb .content .default .result .more-nb .more-content {
+ background:#e5f4fb;
+ padding:15px 17px;
+ border-radius:5px
+}
+.nb .content .default .result .directions .direction-par .content-par .info-direction .type-direction .more-nb .more-content .see-nb:nth-child(2),
+.nb .content .default .result .more-nb .more-content .see-nb:nth-child(2) {
+ padding:10px 0
+}
+.nb .content .default .result .directions .direction-par .content-par .info-direction .type-direction .more-nb .more-content .see-nb .txt-cricle,
+.nb .content .default .result .more-nb .more-content .see-nb .txt-cricle {
+ background:#174474;
+ width:6px;
+ height:6px;
+ margin-right:8px;
+ border-radius:50%;
+ display:block;
+ float:left;
+ margin-top:7px
+}
+.nb .content .default .result .more-nb {
+ margin:20px 0;
+ clear:left
+}
+.nb .content .default .result .directions .direction-par .content-par .info-direction .type-direction .more-nb .more-content .see-nb a,
+.nb .content .default .result .more-nb .more-content .see-nb a {
+ font-size:16px;
+ font-style:italic
+}
+.nb .content .default .result .directions .direction-par .content-par .info-direction .type-direction .more-nb .more-content p:first-child,
+.nb .content .default .result .more-nb .more-content p:first-child {
+ font-size:17px;
+ color:#27406d;
+ font-weight:700
+}
+.nb .content .default .result .directions .direction-par .content-par .info-direction .type-direction .item .title-supply {
+ font-size:16px;
+ font-weight:700;
+ color:#fff;
+ background:#0094d9;
+ padding:3px 13px;
+ display:inline-block;
+ position:relative;
+ padding-right:40px;
+ margin-bottom:10px
+}
+.nb .content .default .result .directions .direction-par .content-par .info-direction .type-direction .item .title-supply:after {
+ content:'';
+ display:inline-block;
+ position:absolute;
+ right:0;
+ top:0;
+ width:15px;
+ border-right:solid 15px #fff;
+ border-bottom:solid 15px transparent;
+ border-top:solid 15px transparent
+}
+.nb .content .default .result .directions .direction-par .content-par .info-direction .type-direction .item .direction-supply .supply-item {
+ width:100%;
+ display:inline-block;
+ margin-bottom:10px
+}
+.nb .content .default .result .directions .direction-par .content-par .info-direction .type-direction .item .direction-supply .supply-item .txt-cricle {
+ background:#174474;
+ width:6px;
+ height:6px;
+ margin-right:8px;
+ border-radius:50%;
+ display:block;
+ float:left;
+ margin-top:7px
+}
+.nb .content .default .result .directions .direction-par .content-par .info-direction .type-direction .item .direction-supply .supply-item p:nth-child(2) {
+ float:left;
+ width:50%;
+ font-size:16px;
+ color:#27406d;
+ font-weight:700
+}
+.nb .content .default .result .directions .direction-par .content-par .info-direction .type-direction .item .direction-supply .supply-item p:last-child {
+ float:left;
+ font-size:16px;
+ color:#27406d
+}
+.nb .content .default .content-default .introduce .txt-see-age {
+ text-align:center;
+ font-size:20px;
+ font-weight:500
+}
+.nb .content .default .content-default .supply .item .item-txt-see-age .supply-destiny .crile {
+ width:6px;
+ height:6px;
+ margin-top:9px;
+ margin-right:12px;
+ float:left;
+ background:#3d4d65;
+ border-radius:50%;
+ display:inline-block
+}
+.nb .content .default .content-default .supply .item .item-txt-see-age .supply-destiny .title-crile {
+ width:calc(100% - 18px);
+ display:inline-block
+}
+.nb .content .default .content-default .supply .item .item-txt-see-age .supply-destiny {
+ padding-bottom:10px
+}
+.nb .content .default .content-default .supply .item .item-txt-see-age .supply-destiny:last-child {
+ padding-bottom:unset
+}
+.nb .content .default .content-default .supply .item .item-txt-see-age .txt-dark {
+ font-size:15px;
+ font-weight:700;
+ color:#354c76;
+ line-height:1.6
+}
+.nb .content .default .result .directions .direction-par .content-par .info-direction.content-par-buy-house {
+ width:unset;
+ float:unset
+}
+.nb .content .default .result .directions .direction-par .content-par .info-direction.content-par-buy-house .type-direction .item .direction-supply .supply-item p:nth-child(2) {
+ float:left;
+ width:10%;
+ font-size:17px;
+ color:#27406d;
+ font-weight:700
+}
+.nb .content .default .result .directions .direction-par .content-par .info-direction.content-par-buy-house .type-direction .item .direction-supply .supply-item p:last-child {
+ width:88%;
+ float:left;
+ font-size:15px;
+ line-height:1.6;
+ color:#27406d
+}
+.read-more {
+ margin-top:16px;
+ text-align:center
+}
+.read-more a {
+ font-size:15px;
+ font-weight:600;
+ color:#0098da;
+ border-bottom:2px solid #0098da;
+ padding-bottom:4px
+}
+.read-more a:hover {
+ color:rgba(0,152,218,.7);
+ border-bottom:2px solid #eb5155
+}
+.box-title ul {
+ margin-top:20px;
+ float:right
+}
+.box-title ul li {
+ float:left;
+ margin-left:2px
+}
+.box-title .title-left .des {
+ font-size:12px;
+ color:#7b7b7b;
+ text-transform:uppercase
+}
+.box-title h1 {
+ font-size:22px;
+ color:#0098da;
+ font-weight:700;
+ text-transform:uppercase;
+ margin-bottom:8px
+}
+@media(max-width:920px) {
+ .nb .content .direction .title .content-title {
+  width:43%
+ }
+ .nb .content .direction .content-direction .icon-direction img {
+  width:90%
+ }
+ .nb .content .direction .content-direction .info-see .info-personal .content-info {
+  padding:27px 31px
+ }
+ .nb .content .direction .content-direction .info-see .info-personal {
+  margin-left:unset;
+  width:92%
+ }
+ .nb .content .direction .content-direction .icon-direction {
+  width:47%;
+  margin-right:19px;
+  margin-top:4px
+ }
+ .nb .content .default .content-default .introduce .supply-destiny p:first-child {
+  display:inline-block;
+  width:calc(100% - 17px)
+ }
+ .nb .content .default .content-default,
+ .nb .content .default .result {
+  padding:0 45px
+ }
+ .nb .content .txt-text {
+  text-align:justify
+ }
+ .nb .content .default .result .info .homeowners .homeowners-content {
+  width:89%
+ }
+ .nb .content .default .result .info .homeowners .homeowners-content .info-detail {
+  width:53%;
+  margin-left:20px
+ }
+ .nb .content .default .result .info .homeowners .homeowners-content .log-supply {
+  text-align:unset;
+  width:43%
+ }
+ .nb .content .default .result .info .homeowners .homeowners-content .log-supply img {
+  width:90%
+ }
+ .nb .content .default .result .directions .direction-par .content-par .compass {
+  width:100%
+ }
+ .nb .content .default .result .directions .direction-par .content-par .compass .compass-content {
+  text-align:center;
+  width:100%;
+  display:inline-block
+ }
+ .nb .content .default .result .directions .direction-par .content-par .info-direction,
+ .nb .content .default .result .directions .direction-par .content-par .info-direction .compass {
+  width:100%
+ }
+ .nb .content .default .result .directions .direction-par .content-par .info-direction.content-par-buy-house .type-direction .item .direction-supply .supply-item p:nth-child(2) {
+  width:13%
+ }
+ .nb .content .default .result .directions .direction-par .content-par .info-direction.content-par-buy-house .type-direction .item .direction-supply .supply-item p:last-child {
+  width:84%
+ }
+ .nb .content .default .result .directions .direction-par .content-par .info-direction .type-direction .item .direction-supply .supply-item.conclusion-buy p {
+  width:100% !important
+ }
+ .nb .content .default .result .title-info {
+  padding:12px 0 20px 0
+ }
+ .box-title ul {
+  padding:0;
+  margin-top:0;
+  float:none;
+  white-space:nowrap;
+  overflow:auto
+ }
+ .box-title ul li {
+  display:inline;
+  float:none
+ }
+ .box-title ul li:first-child a {
+  padding-left:0
+ }
+ .btn-default {
+  display:inline-block
+ }
+ .box-title .des {
+  display:none
+ }
+ .nb .content .direction .title .content-title p {
+  padding:10px 6px 10px 20px
+ }
+}
+@media(max-width:480px) {
+.phongthuy-menu{margin: auto;
+list-style: none;
+overflow-x: auto;
+overflow-y: hidden;
+white-space: nowrap;
+display: flex;
+-webkit-overflow-scrolling: touch;
+z-indexms-overflow-style: -ms-autohiding-scrollbar;
+background:
+#fff;
+padding: 10px;}
+ .nb .content .tab .btn-button {
+  padding:10px 3px
+ }
+ .nb .content .tab .btn-buy-house {
+  margin:0 3px
+ }
+ .nb .content .direction .title .content-title p {
+  padding:7px
+ }
+ .nb .content .direction .title .content-title p:last-child {
+  padding-top:15px
+ }
+ .nb .content .text-title {
+  font-size:22px
+ }
+ .nb .content .direction .title .content-title {
+  width:100%
+ }
+ .nb .content .direction .content-direction .icon-direction,
+ .nb .content .direction .content-direction .info-see {
+  width:100%;
+  float:unset;
+  text-align:center;
+  margin-bottom:22px;
+  margin-top:unset
+ }
+ .nb .content .direction .content-direction .icon-direction img {
+  width:71%
+ }
+ .nb .content .direction .content-direction .info-see .info-personal {
+  width:93%;
+  margin:0 11px
+ }
+ .nb .content .direction .content-direction .info-see .info-personal .content-info {
+  padding:27px 31px
+ }
+ .nb .content .default .content-default,
+ .nb .content .default .result {
+  padding:0 11px
+ }
+ .nb .content .txt-text {
+  text-align:justify
+ }
+ .nb .content .default .content-default .introduce .supply-destiny p {
+  width:calc(100% - 17px);
+  display:inline-block
+ }
+ .nb .content .default .result .info .homeowners {
+  padding:20px 0 0 0
+ }
+ .nb .content .default .result .info .homeowners .homeowners-content {
+  width:100%
+ }
+ .nb .content .default .result .info .homeowners .homeowners-content .info-detail {
+  width:100%
+ }
+ .nb .content .default .result .info .homeowners .homeowners-content .log-supply {
+  text-align:center;
+  display:inline-block;
+  width:100%;
+  padding-top:21px
+ }
+ .nb .content .default .result .info .homeowners .homeowners-content .log-supply img {
+  width:75%;
+  height:auto
+ }
+ .nb .content .default .result .title-info {
+  font-size:20px;
+  font-weight:700;
+  padding:0 0 0 0
+ }
+ .nb .content .default .result .title-info .down-line {
+  display:block
+ }
+ .nb .content .default .result .directions .direction-par .content-par .info-direction .type-direction .item .direction-supply .supply-item p:nth-child(2) {
+  width:50%;
+  font-size:16px
+ }
+ .nb .content .default .result .directions .direction-par .content-par .info-direction,
+ .nb .content .default .result .directions .direction-par .content-par .info-direction .compass {
+  width:100%
+ }
+ .nb .content .default .result .directions .direction-par .content-par .info-direction .type-direction .item .direction-supply .supply-item p:last-child {
+  width:43%;
+  font-size:15px;
+  padding-left:4px
+ }
+ .nb .content .default .result .directions .direction-par .content-par .info-direction.content-par-buy-house .type-direction .item .direction-supply .supply-item p:nth-child(2) {
+  float:left;
+  width:25%;
+  font-size:16px;
+  color:#27406d;
+  font-weight:700
+ }
+ .nb .content .default .result .directions .direction-par .content-par .info-direction.content-par-buy-house .type-direction .item .direction-supply .supply-item p:last-child {
+  width:68%;
+  text-align:justify;
+  font-size:15px
+ }
+ .nb .content .default .result .directions .direction-par .content-par .info-direction.content-par-buy-house .type-direction .item .direction-supply .supply-item.conclusion-buy p {
+  width:100%
+ }
+ .nb .content .tab .btn-button.btn-buy-house {
+  margin:unset
+ }
+ .nb .content .default .result .directions .direction-par .content-par .info-direction .type-direction .note-fengshui p {
+  font-size:14px
+ }
+ .nb .content .default .result .directions .direction-par .content-par .compass .compass-content {
+  top:-20px
+ }
+ .nb .content .direction .default-distance {
+  padding:0 0
+ }
+ .nb .content .default .result .directions .direction-par .content-par .compass .compass-content img {
+  width:100%;
+  height:auto
+ }
+ .nb .content .direction .content-direction {
+  padding:19px 0 0 0
+ }
+ .nb .content .default .result .directions {
+  padding:20px 0 0 0
+ }
+ .box-title ul {
+  padding:0;
+  margin-top:0;
+  float:none;
+  white-space:nowrap;
+  overflow:auto
+ }
+ .box-title ul li {
+  display:inline;
+  float:none
+ }
+ .box-title ul li:first-child a {
+  padding-left:0
+ }
+ .btn-default {
+  display:inline-block
+ }
+ .box-title .des {
+  display:none
+ }
+}
+@media(max-width:360px) {
+ .nb .content .direction .content-direction .info-see .info-personal .content-info .year p,
+ .nb .content .direction .content-direction .info-see .info-personal .content-info .gender p {
+  width:59%
+ }
+ .nb .content .tab a:last-child {
+  display:inline-block;
+  margin-top:16px;
+  padding:10px 18px
+ }
+ .nb .content .tab .btn-button {
+  padding:10px 14px
+ }
+ .nb .content .default .result .title-info {
+  font-size:19px;
+  line-height:1.5
+ }
+ .nb .content .default .result .directions .direction-par .content-par .info-direction .type-direction .item .direction-supply .supply-item p:nth-child(2) {
+  font-size:15px
+ }
+ .nb .content .direction .title .content-title p {
+  padding:6px 6px 10px 63px
+ }
+}
+@media(max-width:320px) {
+ .nb .content .tab a:last-child {
+  display:inline-block;
+  margin-top:16px;
+  padding:10px 18px
+ }
+ .nb .content .tab .btn-button {
+  padding:10px 14px
+ }
+ .nb .content .direction .title .content-title p {
+  padding:10px 6px 10px 43px
+ }
+ .nb .content .direction .title .content-title p:first-child .img {
+  width:93%
+ }
+ .nb .content .direction .content-direction .info-see .info-personal .content-info .year p,
+ .nb .content .direction .content-direction .info-see .info-personal .content-info .gender p {
+  width:59%
+ }
+ .nb .content .direction .default-distance {
+  padding:0 0
+ }
+ .nb .content .default .result .title-info {
+  font-size:19px;
+  line-height:1.5
+ }
+ .nb .content .default .result .directions .direction-par .content-par .info-direction .type-direction .item .direction-supply .supply-item p:nth-child(2) {
+  font-size:15px
+ }
+ .nb .content .direction .content-direction .info-see .info-personal .content-info .year .slect-year select,
+ .nb .content .direction .content-direction .info-see .info-personal .content-info .gender .slect-gender select {
+  padding:10px 0 10px 4px
+ }
+ .nb .content .direction .content-direction .info-see .info-personal .content-info .year .slect-year .drop,
+ .nb .content .direction .content-direction .info-see .info-personal .content-info .gender .slect-gender .drop {
+  right:4px
+ }
+ .nb .content .default .content-default .introduce .txt-see-age {
+  font-size:18px
+ }
+ .nb .content .default .result .info .homeowners .homeowners-content .info-detail {
+  margin-left:8px
+ }
+ .nb .content .default .result .info .homeowners .homeowners-content .info-detail .item-info .txt-left,
+ .nb .content .default .result .info .homeowners .homeowners-content .info-detail .item-info .txt-right {
+  font-size:15px
+ }
+ .nb .content .default .result .directions .direction-par .content-par {
+  padding:20px 0 0 0
+ }
+}
+.phongthuy-menu li {
+  display: inline-block;
+  padding: 10px 14px;
+  font-size: 14px;
+  border: 1px solid #a5afbd;
+  cursor: pointer;
+  font-weight: 500;
+  border-radius: 5px;
+  color: #174474;
+}
+.phongthuy-menu li:hover,.phongthuy-menu li.current_page_item {
+  background:#0098da;
+}
+.phongthuy-menu li:hover a,.phongthuy-menu li.current_page_item a {
+  color:#fff ;
+}

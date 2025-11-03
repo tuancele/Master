@@ -1,0 +1,428 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: master-gf\n"
+"POT-Creation-Date: 2018-12-26 07:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: inc\n"
+"X-Poedit-SearchPathExcluded-1: js"
+
+#: comments.php:13
+msgid "Reviews"
+msgstr ""
+
+#: comments.php:16
+msgid "Project reviews"
+msgstr ""
+
+#: comments.php:30 comments.php:57
+msgid "reviews"
+msgstr ""
+
+#: comments.php:38
+msgid "Send Review"
+msgstr ""
+
+#: comments.php:57
+msgid "Have"
+msgstr ""
+
+#: comments.php:102
+msgid "Comments are closed here."
+msgstr ""
+
+#: comments.php:118
+msgid "Your project review "
+msgstr ""
+
+#: comments.php:129
+msgid "Comment about project"
+msgstr ""
+
+#: footer.php:6
+msgid "BENEFITS TO KNOW"
+msgstr ""
+
+#: footer.php:16
+msgid "The latest & updated news"
+msgstr ""
+
+#: footer.php:18
+msgid "Sale-opening information of project"
+msgstr ""
+
+#: footer.php:19
+msgid "Sale policies from the Investor"
+msgstr ""
+
+#: footer.php:20
+msgid "Constantly updated work-schedule"
+msgstr ""
+
+#: footer.php:30 footer.php:32
+msgid "Buy at the lowest price"
+msgstr ""
+
+#: footer.php:33
+msgid "Sign the Contract directly with the Investor"
+msgstr ""
+
+#: footer.php:34
+msgid "Benefit a large of favors from the Investor"
+msgstr ""
+
+#: footer.php:44
+msgid "Quick procedures with the most favored loan "
+msgstr ""
+
+#: footer.php:46
+msgid "Advise and support to make legal procedures"
+msgstr ""
+
+#: footer.php:47
+msgid "Be borrowed loans at the lowest interest-rate"
+msgstr ""
+
+#: footer.php:48
+msgid "Loan period up to 25 years"
+msgstr ""
+
+#: footer.php:58
+msgid "Good interior design & saving"
+msgstr ""
+
+#: footer.php:60
+msgid "Be free-advised by reputed design-advice Units"
+msgstr ""
+
+#: footer.php:61
+msgid "Be referred to a thousand of Show Flat's designs"
+msgstr ""
+
+#: footer.php:85
+msgid "Call right now"
+msgstr ""
+
+#: footer.php:89
+msgid "To get the hot flat with a good price"
+msgstr ""
+
+#: footer.php:90
+msgid "To get the exact price from the Investor for each flat"
+msgstr ""
+
+#: footer.php:91
+msgid ""
+"To be advised to choose loans at the lowest interest-rate in the longest "
+"loan period."
+msgstr ""
+
+#: footer.php:98
+msgid "Let's update the latest news on project"
+msgstr ""
+
+#: footer.php:101
+msgid "Update the policy and work-schedule of project"
+msgstr ""
+
+#: footer.php:102
+msgid "Sample Contract of the Investor"
+msgstr ""
+
+#: footer.php:103
+msgid "The Drawing of layout Apartment"
+msgstr ""
+
+#: footer.php:104
+msgid "... And other useful documents"
+msgstr ""
+
+#: footer.php:114 footer.php:305 footer.php:333 footer.php:367 footer.php:399
+#: footer.php:430 sidebar.php:46
+msgid "Phone number"
+msgstr ""
+
+#: footer.php:117 footer.php:304 footer.php:334 footer.php:364 footer.php:396
+#: footer.php:427 sidebar.php:45
+msgid "Email"
+msgstr ""
+
+#: footer.php:121 footer.php:335 sidebar.php:47
+msgid "Send"
+msgstr ""
+
+#: footer.php:134
+msgid "See quickly others"
+msgstr ""
+
+#: footer.php:171
+msgid "DOWNLOAD INFORMATION"
+msgstr ""
+
+#: footer.php:175
+msgid "DOWNLOAD LATEST PRICE"
+msgstr ""
+
+#: footer.php:179
+msgid "GET SALE OPENING TIME"
+msgstr ""
+
+#: footer.php:211
+msgid "Contact us"
+msgstr ""
+
+#: footer.php:239
+msgid "Download"
+msgstr ""
+
+#: footer.php:240 footer.php:260
+msgid "Download latest price"
+msgstr ""
+
+#: footer.php:245 footer.php:264
+msgid "Q&A"
+msgstr ""
+
+#: footer.php:272
+msgid "call now"
+msgstr ""
+
+#: footer.php:273 footer.php:276 functions.php:619
+msgid "Get quotation"
+msgstr ""
+
+#: footer.php:299
+msgid "House quotation"
+msgstr ""
+
+#: footer.php:302
+msgid ""
+"To get houses price, please enter correct information. All information shall "
+"be absolutely protected"
+msgstr ""
+
+#: footer.php:303 footer.php:331 footer.php:361 footer.php:393 footer.php:424
+#: sidebar.php:44
+msgid "Full name"
+msgstr ""
+
+#: footer.php:307
+msgid "Get information"
+msgstr ""
+
+#: footer.php:322
+msgid "Get the advice"
+msgstr ""
+
+#: footer.php:356
+msgid "Project document"
+msgstr ""
+
+#: footer.php:359
+msgid ""
+"Please fill in full and correct information<br> All information shall be "
+"absolutely protected"
+msgstr ""
+
+#: footer.php:369 footer.php:401 footer.php:432
+msgid "Register"
+msgstr ""
+
+#: footer.php:388
+msgid "House price"
+msgstr ""
+
+#: footer.php:391 footer.php:422
+msgid ""
+"Please fill in full and correct information. All information shall be "
+"absolutely protected"
+msgstr ""
+
+#: footer.php:420
+msgid "Get information Sale open time"
+msgstr ""
+
+#: functions.php:118
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:119
+msgid "Sidebar Menu"
+msgstr ""
+
+#: functions.php:166
+msgid "Widget Area 1"
+msgstr ""
+
+#: functions.php:167 functions.php:178
+msgid "Description for this widget-area..."
+msgstr ""
+
+#: functions.php:177
+msgid "Widget Area 2"
+msgstr ""
+
+#: functions.php:298
+#, php-format
+msgid "<span class=\"fn\">%s</span>"
+msgstr ""
+
+#: functions.php:304
+msgid "Moderator"
+msgstr ""
+
+#: functions.php:310
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:320
+#, php-format
+msgid "<span style=\"color:#888;font-size: 13px;\">%1$s</span>"
+msgstr ""
+
+#: functions.php:464
+msgid "Year"
+msgstr ""
+
+#: functions.php:473
+msgid "Month"
+msgstr ""
+
+#: functions.php:482
+msgid "Day"
+msgstr ""
+
+#: functions.php:544
+msgid "Previous"
+msgstr ""
+
+#: functions.php:545
+msgid "Next"
+msgstr ""
+
+#: functions.php:590
+msgid "First"
+msgstr ""
+
+#: functions.php:592
+msgid "previous"
+msgstr ""
+
+#: functions.php:607
+msgid "next"
+msgstr ""
+
+#: functions.php:611
+msgid "Last"
+msgstr ""
+
+#: functions.php:810
+msgid "Your name (*)"
+msgstr ""
+
+#: functions.php:812
+msgid "Your email (*)"
+msgstr ""
+
+#: functions.php:969
+msgid "Your Phone Number"
+msgstr ""
+
+#: header.php:63
+msgid "PRIVATE COUNSELING"
+msgstr ""
+
+#: loop.php:14
+msgid "Published"
+msgstr ""
+
+#: page.php:11 single.php:11
+msgid "COUNTDOWN HANDING-OVER TIME:"
+msgstr ""
+
+#: sidebar.php:2
+msgid "CALL NOW :"
+msgstr ""
+
+#: sidebar.php:9
+msgid "Blog"
+msgstr ""
+
+#: sidebar.php:41
+msgid "Detailed consultation"
+msgstr ""
+
+#: sidebar.php:43
+msgid "Commit not to reveal the Customer's information..."
+msgstr ""
+
+#: single.php:35
+msgid "<div class=\"entry-tags\"><span>Tags:</span>"
+msgstr ""
+
+#: template-home.php:10
+msgid "Price about:"
+msgstr ""
+
+#: template-home.php:14
+msgid "Location:"
+msgstr ""
+
+#: template-home.php:18
+msgid "House area:"
+msgstr ""
+
+#: template-home.php:23
+msgid "Handing-over time"
+msgstr ""
+
+#: template-home.php:30
+msgid "Buy a flat:"
+msgstr ""
+
+#: template-home.php:32
+msgid "Update:"
+msgstr ""
+
+#: template-thank.php:6
+msgid "Thank you for registering"
+msgstr ""
+
+#: template-thank.php:8
+msgid "We will contact you for the most accurate information"
+msgstr ""
+
+#: template-thank.php:10 template-thank.php:36
+msgid "Back to homepage"
+msgstr ""
+
+#: template-thank.php:19
+msgid "Registration process completed"
+msgstr ""
+
+#: template-thank.php:20
+msgid "An email has been sent to your address"
+msgstr ""
+
+#: template-thank.php:22
+msgid ""
+"Please check email in incoming or outgoing spam and follow the instructions "
+"to receive project information"
+msgstr ""
+
+msgid "Only"
+msgstr ""
+
+msgid "day to handover"
+msgstr ""

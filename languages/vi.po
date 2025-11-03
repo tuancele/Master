@@ -1,0 +1,441 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: master-gf\n"
+"POT-Creation-Date: 2018-12-26 07:46+0000\n"
+"PO-Revision-Date: 2019-01-14 10:05+0000\n"
+"Last-Translator: Quản trị viên <root@tuancele.net>\n"
+"Language-Team: Tiếng Việt\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: inc\n"
+"X-Poedit-SearchPathExcluded-1: js\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.2.0; wp-5.0.3"
+
+#: comments.php:13
+msgid "Reviews"
+msgstr "Đánh giá"
+
+#: comments.php:16
+msgid "Project reviews"
+msgstr "Đánh giá dự án"
+
+#: comments.php:30 comments.php:57
+msgid "reviews"
+msgstr "đánh giá"
+
+#: comments.php:38
+msgid "Send Review"
+msgstr "Gửi đánh giá"
+
+#: comments.php:57
+msgid "Have"
+msgstr "Có"
+
+#: comments.php:102
+msgid "Comments are closed here."
+msgstr "Bình luận hiện đang tạm khóa"
+
+#: comments.php:118
+msgid "Your project review "
+msgstr "Đánh giá của bạn về dự án"
+
+#: comments.php:129
+msgid "Comment about project"
+msgstr "Bình luận về dự án"
+
+#: footer.php:6
+msgid "BENEFITS TO KNOW"
+msgstr "BẠN NHẬN ĐƯỢC GÌ KHI CHỌN CHÚNG TÔI"
+
+#: footer.php:16
+msgid "The latest & updated news"
+msgstr "Tin tức mới nhất</br> & Cập Nhật"
+
+#: footer.php:18
+msgid "Sale-opening information of project"
+msgstr "Thông tin mở bán dự án"
+
+#: footer.php:19
+msgid "Sale policies from the Investor"
+msgstr "Hợp đồng mẫu của chủ đầu tư"
+
+#: footer.php:20
+msgid "Constantly updated work-schedule"
+msgstr "Cập nhật chính sách và tiến độ dự án"
+
+#: footer.php:30 footer.php:32
+msgid "Buy at the lowest price"
+msgstr "Mua với giá gốc không chênh"
+
+#: footer.php:33
+msgid "Sign the Contract directly with the Investor"
+msgstr "Ký hợp đồng trực tiếp với chủ đầu tư"
+
+#: footer.php:34
+msgid "Benefit a large of favors from the Investor"
+msgstr "Được hưởng tất cả các ưu đãi từ chủ đầu tư"
+
+#: footer.php:44
+msgid "Quick procedures with the most favored loan "
+msgstr "Thủ tục nhanh gọn<br/> Gói vay ưu đãi nhất"
+
+#: footer.php:46
+msgid "Advise and support to make legal procedures"
+msgstr "Tư vấn, hỗ trợ làm thủ tục pháp lý"
+
+#: footer.php:47
+msgid "Be borrowed loans at the lowest interest-rate"
+msgstr "Được vay các gói vay có lãi suất thấp nhất thị trường"
+
+#: footer.php:48
+msgid "Loan period up to 25 years"
+msgstr "Thời gian vay lên đến 25 năm"
+
+#: footer.php:58
+msgid "Good interior design & saving"
+msgstr "Thiết kế nội thất đẹp</br>Với chi phí tiết kiệm"
+
+#: footer.php:60
+msgid "Be free-advised by reputed design-advice Units"
+msgstr "Được tư vấn miễn phí bởi các đơn vị tư vấn thiết kế uy tín"
+
+#: footer.php:61
+msgid "Be referred to a thousand of Show Flat's designs"
+msgstr "Được tham khảo hàng ngàn mẫu thiết kế căn hộ mẫu"
+
+#: footer.php:85
+msgid "Call right now"
+msgstr "Gọi ngay"
+
+#: footer.php:89
+msgid "To get the hot flat with a good price"
+msgstr "Nhận được căn hộ tốt nhất với mức giá cạnh tranh"
+
+#: footer.php:90
+msgid "To get the exact price from the Investor for each flat"
+msgstr "Nhận được giá bán chính xác từ chủ đầu tư cho từng căn hộ"
+
+#: footer.php:91
+msgid ""
+"To be advised to choose loans at the lowest interest-rate in the longest "
+"loan period."
+msgstr ""
+"Được tư vấn lựa chọn các gói vay với lãi thấp nhất trong khoảng thời gian "
+"cho vay dài nhất."
+
+#: footer.php:98
+msgid "Let's update the latest news on project"
+msgstr "Cập nhật tin tức mới nhất về dự án"
+
+#: footer.php:101
+msgid "Update the policy and work-schedule of project"
+msgstr "Cập nhật chính sách bán hàng"
+
+#: footer.php:102
+msgid "Sample Contract of the Investor"
+msgstr "Mẫu hợp đồng của nhà đầu tư"
+
+#: footer.php:103
+msgid "The Drawing of layout Apartment"
+msgstr "Bản vẽ thiết kế căn hộ"
+
+#: footer.php:104
+msgid "... And other useful documents"
+msgstr "... Và các tài liệu hữu ích khác"
+
+#: footer.php:114 footer.php:305 footer.php:333 footer.php:367 footer.php:399
+#: footer.php:430 sidebar.php:46
+msgid "Phone number"
+msgstr "Số điện thoại"
+
+#: footer.php:117 footer.php:304 footer.php:334 footer.php:364 footer.php:396
+#: footer.php:427 sidebar.php:45
+msgid "Email"
+msgstr "Địa chỉ email"
+
+#: footer.php:121 footer.php:335 sidebar.php:47
+msgid "Send"
+msgstr "Gửi"
+
+#: footer.php:134
+msgid "See quickly others"
+msgstr "Xem nhanh các dự án khác"
+
+#: footer.php:171
+msgid "DOWNLOAD INFORMATION"
+msgstr "NHẬN THÔNG TIN DỰ ÁN"
+
+#: footer.php:175
+msgid "DOWNLOAD LATEST PRICE"
+msgstr "TẢI BẢNG GIÁ MỚI NHẤT"
+
+#: footer.php:179
+msgid "GET SALE OPENING TIME"
+msgstr "NHẬN THƯ MỜI MỞ BÁN"
+
+#: footer.php:211
+msgid "Contact us"
+msgstr "Liên hệ"
+
+#: footer.php:239
+msgid "Download"
+msgstr "Tải xuống"
+
+#: footer.php:240 footer.php:260
+msgid "Download latest price"
+msgstr "Tải bảng giá mới nhất"
+
+#: footer.php:245 footer.php:264
+msgid "Q&A"
+msgstr "Hỏi đáp"
+
+#: footer.php:272
+msgid "call now"
+msgstr "Gọi ngay"
+
+#: footer.php:273 footer.php:276 functions.php:619
+msgid "Get quotation"
+msgstr "Nhận báo giá"
+
+#: footer.php:299
+msgid "House quotation"
+msgstr "Báo giá căn hộ"
+
+#: footer.php:302
+msgid ""
+"To get houses price, please enter correct information. All information shall "
+"be absolutely protected"
+msgstr ""
+"Để có được mức giá nhà, xin vui lòng nhập thông tin chính xác. Tất cả thông "
+"tin sẽ được bảo vệ tuyệt đối"
+
+#: footer.php:303 footer.php:331 footer.php:361 footer.php:393 footer.php:424
+#: sidebar.php:44
+msgid "Full name"
+msgstr "Họ và tên"
+
+#: footer.php:307
+msgid "Get information"
+msgstr "Nhận thông tin"
+
+#: footer.php:322
+msgid "Get the advice"
+msgstr "Nhận được những lời khuyên"
+
+#: footer.php:356
+msgid "Project document"
+msgstr "Tài liệu dự án"
+
+#: footer.php:359
+msgid ""
+"Please fill in full and correct information<br> All information shall be "
+"absolutely protected"
+msgstr ""
+"Xin vui lòng điền thông tin đầy đủ và chính xác. Tất cả thông tin sẽ được "
+"bảo vệ tuyệt đối"
+
+#: footer.php:369 footer.php:401 footer.php:432
+msgid "Register"
+msgstr "Đăng ký"
+
+#: footer.php:388
+msgid "House price"
+msgstr "Giá"
+
+#: footer.php:391 footer.php:422
+msgid ""
+"Please fill in full and correct information. All information shall be "
+"absolutely protected"
+msgstr ""
+"Xin vui lòng điền thông tin đầy đủ và chính xác. Tất cả thông tin sẽ được "
+"bảo vệ tuyệt đối"
+
+#: footer.php:420
+msgid "Get information Sale open time"
+msgstr "Nhận thông tin mở bán"
+
+#: functions.php:118
+msgid "Header Menu"
+msgstr "Danh sách đầu trang"
+
+#: functions.php:119
+msgid "Sidebar Menu"
+msgstr "Danh sách Thanh Bên"
+
+#: functions.php:166
+msgid "Widget Area 1"
+msgstr "Khu vực tiện ích 1"
+
+#: functions.php:167 functions.php:178
+msgid "Description for this widget-area..."
+msgstr "Mô tả cho tiện ích này"
+
+#: functions.php:177
+msgid "Widget Area 2"
+msgstr "Khu vực tiện ích 2"
+
+#: functions.php:298
+#, php-format
+msgid "<span class=\"fn\">%s</span>"
+msgstr ""
+
+#: functions.php:304
+msgid "Moderator"
+msgstr "Quản trị viên"
+
+#: functions.php:310
+msgid "Your comment is awaiting moderation."
+msgstr "Bình luận của bạn đang chờ phê duyệt."
+
+#: functions.php:320
+#, php-format
+msgid "<span style=\"color:#888;font-size: 13px;\">%1$s</span>"
+msgstr ""
+
+#: functions.php:464
+msgid "Year"
+msgstr "Năm"
+
+#: functions.php:473
+msgid "Month"
+msgstr "Tháng"
+
+#: functions.php:482
+msgid "Day"
+msgstr "Ngày"
+
+#: functions.php:544
+msgid "Previous"
+msgstr "Trước"
+
+#: functions.php:545
+msgid "Next"
+msgstr "Tiếp theo"
+
+#: functions.php:590
+msgid "First"
+msgstr "Đầu tiên"
+
+#: functions.php:592
+msgid "previous"
+msgstr "Trước"
+
+#: functions.php:607
+msgid "next"
+msgstr "Kế tiếp"
+
+#: functions.php:611
+msgid "Last"
+msgstr "Cuối cùng"
+
+#: functions.php:810
+msgid "Your name (*)"
+msgstr "Tên của bạn"
+
+#: functions.php:812
+msgid "Your email (*)"
+msgstr "Địa chỉ email"
+
+#: functions.php:969
+msgid "Your Phone Number"
+msgstr "Số điện thoại của bạn"
+
+#: header.php:63
+msgid "PRIVATE COUNSELING"
+msgstr "NHẬN TƯ VẤN RIÊNG"
+
+#: loop.php:14
+msgid "Published"
+msgstr "Ngày đăng:"
+
+#: page.php:11 single.php:11
+msgid "COUNTDOWN HANDING-OVER TIME:"
+msgstr "THỜI GIAN BÀN GIAO DỰ ÁN:"
+
+#: sidebar.php:2
+msgid "CALL NOW :"
+msgstr "GỌI NGAY: "
+
+#: sidebar.php:9
+msgid "Blog"
+msgstr "Tin tức"
+
+#: sidebar.php:41
+msgid "Detailed consultation"
+msgstr "Tư vấn chi tiết"
+
+#: sidebar.php:43
+msgid "Commit not to reveal the Customer's information..."
+msgstr ""
+"Cam kết bảo vệ thông tin khách hàng, Đưa thông tin chính xác mới nhất, không "
+"làm phiền ..."
+
+#: single.php:35
+msgid "<div class=\"entry-tags\"><span>Tags:</span>"
+msgstr ""
+
+#: template-home.php:10
+msgid "Price about:"
+msgstr "Giá từ:"
+
+#: template-home.php:14
+msgid "Location:"
+msgstr "Địa điểm:"
+
+#: template-home.php:18
+msgid "House area:"
+msgstr "Diện tích:"
+
+#: template-home.php:23
+msgid "Handing-over time"
+msgstr "Thời gian bàn giao dự án"
+
+#: template-home.php:30
+msgid "Buy a flat:"
+msgstr "Mua căn hộ:"
+
+#: template-home.php:32
+msgid "Update:"
+msgstr "Cập Nhật:"
+
+#: template-thank.php:6
+msgid "Thank you for registering"
+msgstr "Cảm ơn đã đăng ký"
+
+#: template-thank.php:8
+msgid "We will contact you for the most accurate information"
+msgstr "Chúng tôi sẽ liên lạc với quý vị trong thời gian sớm nhất"
+
+#: template-thank.php:10 template-thank.php:36
+msgid "Back to homepage"
+msgstr "Trở về trang chủ"
+
+#: template-thank.php:19
+msgid "Registration process completed"
+msgstr "Quá trình đăng ký hoàn tất"
+
+#: template-thank.php:20
+msgid "An email has been sent to your address"
+msgstr "Một email đã được gửi đến địa chỉ của bạn"
+
+#: template-thank.php:22
+msgid ""
+"Please check email in incoming or outgoing spam and follow the instructions "
+"to receive project information"
+msgstr ""
+"Xin vui lòng kiểm tra email trong hộp thư đến hoặc thư rác và làm theo hướng "
+"dẫn để nhận thông tin dự án"
+
+msgid "Only"
+msgstr "Còn"
+
+msgid "day to handover"
+msgstr "ngày đến bàn giao"
