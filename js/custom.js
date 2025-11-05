@@ -1,3 +1,4 @@
+(function($){
 function validateEmail(e) {
 
     var r = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
@@ -1046,5 +1047,7 @@ jQuery(document).ready(function($) {
         $('.button__nav-menu').next('ul').slideUp();
     });
 });
+
+})(jQuery);
 
 })(jQuery);

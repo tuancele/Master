@@ -155,10 +155,6 @@ if(!cele_is_amp()) { ?>
 
 <?php wp_footer(); ?>
 
-<?php // --- CÁC SCRIPT THỦ CÔNG ĐÃ BỊ XÓA --- ?>
-<?php // <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/js/product-project-detail.min.js"></script> ?>
-<?php // <script type="text/javascript" src="<?php bloginfo('template_url' ); ?>/js/jquery.mmenu.js"></script> ?>
-
 <?php if(!cele_is_amp()) { ?>
 <?php if( get_field('khpp','option') ): ?>
 <div class="modal-adv ">
@@ -239,8 +235,6 @@ if(!cele_is_amp()) { ?>
         </div>
     </div>
 </div>
-<?php // --- SCRIPT THỦ CÔNG ĐÃ BỊ XÓA --- ?>
-<?php // <script type='text/javascript' src='<?php bloginfo('template_url' ); ?>/js/js.cookie.min.js'></script> ?>
 <?php endif; ?>
 
 <?php }?>
