@@ -27,9 +27,9 @@ if(!cele_is_amp()) { ?>
                         <?php the_field('thong_tin_ft1',pll_current_language('slug')); ?>
                     </div>
                 </div>
-                <?php $rows=get_field( 'menu_ft1', pll_current_language('slug')); if($rows) ?>        
-				<?php { ?>
-				<?php foreach($rows as $row) { ?>
+                <?php $rows=get_field( 'menu_ft1', pll_current_language('slug')); if($rows) ?>       
+                <?php { ?>
+                <?php foreach($rows as $row) { ?>
                 <div class="col-md-3 pl_70">
                     <div class="title_footer h3"><?php echo  $row['title'] ?></div>
                     <div class="menu-footer">
@@ -61,8 +61,6 @@ if(!cele_is_amp()) { ?>
     </div>
 </div>
 </div>
-<!-- /wrapper -->
-
 <?php if(!cele_is_amp()) { ?>
 <div class="support-online">
     <div class="support-content">
@@ -110,35 +108,35 @@ if(!cele_is_amp()) {
     <div class="modal-dialog">
         <button type="button" class="close" on="tap:my-lightbox.close"><svg><use xlink:href="#close"></use></svg></button>
     <div class="modal-content">
-                <div class="dowload-last">
-                    <form class="form-download2 cele-form-modal" method="POST" action-xhr='<?php echo admin_url('admin-ajax.php?action=amp_formfooter_submit'); ?>'>
-                        <input name="Human" value="7ba90e90ed" type="hidden">
-                        <input name="Cele" value="mastergf-modal-right" type="hidden">
-                        <input name="link" value="<?php echo $_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI']; ?>" type="hidden">
-                        <div class="box-heading">
-                            <p class="title-dowload-last"><?php _e('House quotation','master-gf') ?> <br> <?php bloginfo('name'); ?>
+            <div class="dowload-last">
+                <form class="form-download2 cele-form-modal" method="POST" action-xhr='<?php echo admin_url('admin-ajax.php?action=amp_formfooter_submit'); ?>'>
+                    <input name="Human" value="7ba90e90ed" type="hidden">
+                    <input name="Cele" value="mastergf-modal-right" type="hidden">
+                    <input name="link" value="<?php echo $_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI']; ?>" type="hidden">
+                    <div class="box-heading">
+                        <p class="title-dowload-last"><?php _e('House quotation','master-gf') ?> <br> <?php bloginfo('name'); ?>
+                    </div>
+                    <p><?php _e('Please fill in full and correct information. All information shall be absolutely protected','master-gf') ?></p>
+                    <div class="dowload-last-input1-modal celename"><input class="form-control" id="name-downow-modal" aria-label="Name" name="Name" type="text" placeholder="<?php _e('Full name','master-gf') ?>" ></div>
+                    <div class="dowload-last-input2-modal celeemail"><input class="form-control" id="email-downow-modal" aria-label="Email" name="Email" type="text" placeholder="<?php _e('Email','master-gf') ?>" ></div>
+                    <div class="dowload-last-input3-modal celephone"><input class="form-control" id="phone-downow-modal" aria-label="Mobile" name="Mobile" type="number" placeholder="<?php _e('Phone number','master-gf') ?>" ></div>
+                    <input id="link-dow-now-modal" class="dow-now" name="dangky" type="submit" aria-label="Submit" value="<?php _e('Register','master-gf') ?>">
+                    <div submitting>
+            
+                    <div id="quote-lb" class="overlay1">
+                        <div class="loading_ajax">
+                        <div class="lds-spinner"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
                         </div>
-                        <p><?php _e('Please fill in full and correct information. All information shall be absolutely protected','master-gf') ?></p>
-                        <div class="dowload-last-input1-modal celename"><input class="form-control" id="name-downow-modal" aria-label="Name" name="Name" type="text" placeholder="<?php _e('Full name','master-gf') ?>" ></div>
-                        <div class="dowload-last-input2-modal celeemail"><input class="form-control" id="email-downow-modal" aria-label="Email" name="Email" type="text" placeholder="<?php _e('Email','master-gf') ?>" ></div>
-                        <div class="dowload-last-input3-modal celephone"><input class="form-control" id="phone-downow-modal" aria-label="Mobile" name="Mobile" type="number" placeholder="<?php _e('Phone number','master-gf') ?>" ></div>
-                        <input id="link-dow-now-modal" class="dow-now" name="dangky" type="submit" aria-label="Submit" value="<?php _e('Register','master-gf') ?>">
-                        <div submitting>
-             
-                        <div id="quote-lb" class="overlay1">
-                            <div class="loading_ajax">
-                            <div class="lds-spinner"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
-                            </div>
-                        </div>
-       
-                        </div>
-                        <div submit-error>
-                <template type="amp-mustache">
-                            {{data}}
-                        </template></div>
-                    </form>
-                </div>
+                    </div>
+    
+                    </div>
+                    <div submit-error>
+          <template type="amp-mustache">
+                        {{data}}
+                    </template></div>
+                </form>
             </div>
+        </div>
   </div>
     </div>
 </amp-lightbox>
@@ -156,8 +154,11 @@ if(!cele_is_amp()) { ?>
 <?php the_field('cele_footer','option'); ?>
 
 <?php wp_footer(); ?>
-<script type="text/javascript" src="<?php bloginfo('template_url'); ?>/js/product-project-detail.min.js"></script>
-<script type="text/javascript" src="<?php bloginfo('template_url' ); ?>/js/jquery.mmenu.js"></script>
+
+<?php // --- CÁC SCRIPT THỦ CÔNG ĐÃ BỊ XÓA --- ?>
+<?php // <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/js/product-project-detail.min.js"></script> ?>
+<?php // <script type="text/javascript" src="<?php bloginfo('template_url' ); ?>/js/jquery.mmenu.js"></script> ?>
+
 <?php if(!cele_is_amp()) { ?>
 <?php if( get_field('khpp','option') ): ?>
 <div class="modal-adv ">
@@ -238,7 +239,8 @@ if(!cele_is_amp()) { ?>
         </div>
     </div>
 </div>
-<script type='text/javascript' src='<?php bloginfo('template_url' ); ?>/js/js.cookie.min.js'></script>
+<?php // --- SCRIPT THỦ CÔNG ĐÃ BỊ XÓA --- ?>
+<?php // <script type='text/javascript' src='<?php bloginfo('template_url' ); ?>/js/js.cookie.min.js'></script> ?>
 <?php endif; ?>
 <script type="text/javascript">
 (function($) {
@@ -298,16 +300,16 @@ scrollTop: t
     /////////
     jQuery(document).ready(function(){
         setInterval(function(){
-           jQuery.ajax({
-            type: "POST",
-            data: {
-                    action : 'list_order',
-                    },
-            url: '<?php echo admin_url('admin-ajax.php'); ?>',
-            success: function(message, status, xhr) {
-              jQuery('.list_order').html(message).closest('.odder_dich_vu').fadeIn(200).delay(3500).fadeOut();
-            },                   
-          });
+            jQuery.ajax({
+             type: "POST",
+             data: {
+                      action : 'list_order',
+                      },
+             url: '<?php echo admin_url('admin-ajax.php'); ?>',
+             success: function(message, status, xhr) {
+               jQuery('.list_order').html(message).closest('.odder_dich_vu').fadeIn(200).delay(3500).fadeOut();
+             },              
+            });
         }, 30000);
     });
 </script>
@@ -340,8 +342,10 @@ scrollTop: t
     .mm-slideout{z-index: initial;}
 </style>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha512-uURl+ZXMBrF4AwGaWmEetzrd+J5/8NRkWAvJx5sbPSSuOb0bZLqf+tOzniObO00BjHa/dD7gub9oCGMLPQHtQA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/9.3.2/swiper-bundle.min.js" integrity="sha512-+z66PuMP/eeemN2MgRhPvI3G15FOBbsp5NcCJBojg6dZBEFL0Zoi0PEGkhjubEcQF7N1EpTX15LZvfuw+Ej95Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<?php // --- CÁC SCRIPT THỦ CÔNG (CDN) ĐÃ BỊ XÓA --- ?>
+<?php // <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" ...></script> ?>
+<?php // <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/9.3.2/swiper-bundle.min.js" ...></script> ?>
+
 <script>
 const thumbEl = document.querySelector(".slider-project-primary-thumbs");
 if (thumbEl) {
@@ -534,11 +538,6 @@ jQuery(document).ready(function($) {
         $('.button__nav-menu').next('ul').slideUp();
     });
 });
-
-
-
-
-
 
 })(jQuery);
 </script>
