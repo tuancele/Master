@@ -1,0 +1,429 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: master-gf\n"
+"POT-Creation-Date: 2018-07-16 20:29+0700\n"
+"PO-Revision-Date: 2018-07-17 15:43+0000\n"
+"Last-Translator: Phòng kinh doanh <tuancele@gmail.com>\n"
+"Language-Team: Korean\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Language: ko_KR\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: inc\n"
+"X-Poedit-SearchPathExcluded-1: js\n"
+"Report-Msgid-Bugs-To: "
+
+#: comments.php:13
+msgid "Reviews"
+msgstr "리뷰"
+
+#: comments.php:16
+msgid "Project reviews"
+msgstr "프로젝트 리뷰"
+
+#: comments.php:30 comments.php:57
+msgid "reviews"
+msgstr "리뷰"
+
+#: comments.php:38
+msgid "Send Review"
+msgstr "검토 보내기"
+
+#: comments.php:57
+msgid "Have"
+msgstr "있다"
+
+#: comments.php:102
+msgid "Comments are closed here."
+msgstr "댓글은 여기에서 닫힙니다."
+
+#: comments.php:118
+msgid "Your project review "
+msgstr "프로젝트 검토"
+
+#: comments.php:129
+msgid "Comment about project"
+msgstr "프로젝트에 대한 설명"
+
+#: footer.php:6
+msgid "BENEFITS TO KNOW"
+msgstr "알아두면 좋은 점"
+
+#: footer.php:16
+msgid "The latest & updated news"
+msgstr "최신 및 업데이트 된 뉴스"
+
+#: footer.php:18
+msgid "Sale-opening information of project"
+msgstr "프로젝트의 판매 개시 정보"
+
+#: footer.php:19
+msgid "Sale policies from the Investor"
+msgstr "투자자의 판매 정책"
+
+#: footer.php:20
+msgid "Constantly updated work-schedule"
+msgstr "끊임없이 업데이트되는 작업 일정"
+
+#: footer.php:30 footer.php:32
+msgid "Buy at the lowest price"
+msgstr "가장 낮은 가격으로 구입"
+
+#: footer.php:33
+msgid "Sign the Contract directly with the Investor"
+msgstr "투자자와 직접 계약서에 서명하십시오."
+
+#: footer.php:34
+msgid "Benefit a large of favors from the Investor"
+msgstr "투자자로부터 큰 호의를 얻으십시오"
+
+#: footer.php:44
+msgid "Quick procedures with the most favored loan "
+msgstr "가장 유리한 대출 절차"
+
+#: footer.php:46
+msgid "Advise and support to make legal procedures"
+msgstr "법적 절차 수립 및 지원"
+
+#: footer.php:47
+msgid "Be borrowed loans at the lowest interest-rate"
+msgstr "가장 낮은 금리로 차용 한 것"
+
+#: footer.php:48
+msgid "Loan period up to 25 years"
+msgstr "대출 기간 최대 25 년"
+
+#: footer.php:58
+msgid "Good interior design & saving"
+msgstr "좋은 인테리어 디자인 및 저장"
+
+#: footer.php:60
+msgid "Be free-advised by reputed design-advice Units"
+msgstr "평판이 좋은 디자인 어드 바이스 유닛"
+
+#: footer.php:61
+msgid "Be referred to a thousand of Show Flat's designs"
+msgstr "쇼 플랫 의 디자인 중 수천 가지를 언급하십시오"
+
+#: footer.php:85
+msgid "Call right now"
+msgstr ""
+"\n"
+"요구"
+
+#: footer.php:89
+msgid "To get the hot flat with a good price"
+msgstr "저렴한 가격으로 인기있는 플랫을 얻으려면"
+
+#: footer.php:90
+msgid "To get the exact price from the Investor for each flat"
+msgstr "각 플랫에 대해 투자자로부터 정확한 가격을 얻으려면"
+
+#: footer.php:91
+msgid ""
+"To be advised to choose loans at the lowest interest-rate in the longest "
+"loan period."
+msgstr "가장 낮은 금리로 대출을 선택하도록 권고 받는다대출 기간."
+
+#: footer.php:98
+msgid "Let's update the latest news on project"
+msgstr "프로젝트의 최신 뉴스를 업데이트합시다"
+
+#: footer.php:101
+msgid "Update the policy and work-schedule of project"
+msgstr "프로젝트의 정책 및 작업 일정 업데이트"
+
+#: footer.php:102
+msgid "Sample Contract of the Investor"
+msgstr "투자자의 견본 계약서"
+
+#: footer.php:103
+msgid "The Drawing of layout Apartment"
+msgstr "레이아웃 아파트 그리기"
+
+#: footer.php:104
+msgid "... And other useful documents"
+msgstr "... 그리고 다른 유용한 문서들"
+
+#: footer.php:114 footer.php:305 footer.php:333 footer.php:367 footer.php:399
+#: footer.php:430 sidebar.php:46
+msgid "Phone number"
+msgstr "전화 번호"
+
+#: footer.php:117 footer.php:304 footer.php:334 footer.php:364 footer.php:396
+#: footer.php:427 sidebar.php:45
+msgid "Email"
+msgstr "이메일"
+
+#: footer.php:121 footer.php:335 sidebar.php:47
+msgid "Send"
+msgstr ""
+"\n"
+"보내다"
+
+#: footer.php:134
+msgid "See quickly others"
+msgstr "다른 사람들보기"
+
+#: footer.php:171
+msgid "DOWNLOAD INFORMATION"
+msgstr "다운로드 정보"
+
+#: footer.php:175
+msgid "DOWNLOAD LATEST PRICE"
+msgstr "최신 가격 책정"
+
+#: footer.php:179
+msgid "GET SALE OPENING TIME"
+msgstr "영업 시간 열기"
+
+#: footer.php:211
+msgid "Contact us"
+msgstr "문의하기"
+
+#: footer.php:239
+msgid "Download"
+msgstr "다운로드"
+
+#: footer.php:240 footer.php:260
+msgid "Download latest price"
+msgstr "최신 가격 다운로드"
+
+#: footer.php:245 footer.php:264
+msgid "Q&A"
+msgstr "지금 전화하십시오"
+
+#: footer.php:272
+msgid "call now"
+msgstr ""
+"\n"
+"요구"
+
+#: footer.php:273 footer.php:276 functions.php:619
+msgid "Get quotation"
+msgstr "인용문 가져 오기"
+
+#: footer.php:299
+msgid "House quotation"
+msgstr "주택 견적"
+
+#: footer.php:302
+msgid ""
+"To get houses price, please enter correct information. All information shall "
+"be absolutely protected"
+msgstr "주택 가격을 얻으려면 올바른 정보를 입력하십시오. 모든 정보는절대적으로 보호 받는다"
+
+#: footer.php:303 footer.php:331 footer.php:361 footer.php:393 footer.php:424
+#: sidebar.php:44
+msgid "Full name"
+msgstr "성명"
+
+#: footer.php:307
+msgid "Get information"
+msgstr "정보 얻기"
+
+#: footer.php:322
+msgid "Get the advice"
+msgstr "조언 받기"
+
+#: footer.php:356
+msgid "Project document"
+msgstr "프로젝트 문서"
+
+#: footer.php:359
+msgid ""
+"Please fill in full and correct information<br> All information shall be "
+"absolutely protected"
+msgstr "완전하고 정확한 정보를 입력하십시오. <br> 모든 정보는절대적으로 보호 된"
+
+#: footer.php:369 footer.php:401 footer.php:432
+msgid "Register"
+msgstr "등록"
+
+#: footer.php:388
+msgid "House price"
+msgstr "주택 가격"
+
+#: footer.php:391 footer.php:422
+msgid ""
+"Please fill in full and correct information. All information shall be "
+"absolutely protected"
+msgstr "정보를 정확하고 완전하게 기입하십시오. 모든 정보는절대적으로 보호 된"
+
+#: footer.php:420
+msgid "Get information Sale open time"
+msgstr "판매 정보 열람"
+
+#: functions.php:118
+msgid "Header Menu"
+msgstr "헤더 메뉴"
+
+#: functions.php:119
+msgid "Sidebar Menu"
+msgstr "사이드 바 메뉴"
+
+#: functions.php:166
+msgid "Widget Area 1"
+msgstr "위젯 영역 1"
+
+#: functions.php:167 functions.php:178
+msgid "Description for this widget-area..."
+msgstr "이 위젯 영역 설명 ..."
+
+#: functions.php:177
+msgid "Widget Area 2"
+msgstr "위젯 영역 2"
+
+#: functions.php:298
+#, php-format
+msgid "<span class=\"fn\">%s</span>"
+msgstr ""
+
+#: functions.php:304
+msgid "Moderator"
+msgstr "중재자"
+
+#: functions.php:310
+msgid "Your comment is awaiting moderation."
+msgstr "댓글이 검토 대기 중입니다."
+
+#: functions.php:320
+#, php-format
+msgid "<span style=\"color:#888;font-size: 13px;\">%1$s</span>"
+msgstr ""
+
+#: functions.php:464
+msgid "Year"
+msgstr "년"
+
+#: functions.php:473
+msgid "Month"
+msgstr "달"
+
+#: functions.php:482
+msgid "Day"
+msgstr ""
+"일\n"
+
+#: functions.php:544
+msgid "Previous"
+msgstr "이전"
+
+#: functions.php:545
+msgid "Next"
+msgstr "다음"
+
+#: functions.php:590
+msgid "First"
+msgstr "처음"
+
+#: functions.php:592
+msgid "previous"
+msgstr "이전"
+
+#: functions.php:607
+msgid "next"
+msgstr "다음"
+
+#: functions.php:611
+msgid "Last"
+msgstr "마지막"
+
+#: functions.php:810
+msgid "Your name (*)"
+msgstr "귀하의 성함 (*)"
+
+#: functions.php:812
+msgid "Your email (*)"
+msgstr "이메일 (*)"
+
+#: functions.php:969
+msgid "Your Phone Number"
+msgstr "귀하의 전화 번호"
+
+#: header.php:63
+msgid "PRIVATE COUNSELING"
+msgstr "개인 면담"
+
+#: loop.php:14
+msgid "Published"
+msgstr "게시 됨"
+
+#: page.php:11 single.php:11
+msgid "COUNTDOWN HANDING-OVER TIME:"
+msgstr "카운트 다운 핸드 오버 - 시간 초과 :"
+
+#: sidebar.php:2
+msgid "CALL NOW :"
+msgstr "요구: "
+
+#: sidebar.php:9
+msgid "Blog"
+msgstr "블로그"
+
+#: sidebar.php:41
+msgid "Detailed consultation"
+msgstr "자세한 상담"
+
+#: sidebar.php:43
+msgid "Commit not to reveal the Customer's information..."
+msgstr "고객의 정보를 밝히지 않기로 약속했습니다 ..."
+
+#: single.php:35
+msgid "<div class=\"entry-tags\"><span>Tags:</span>"
+msgstr ""
+
+#: template-home.php:10
+msgid "Price about:"
+msgstr "약 가격 :"
+
+#: template-home.php:14
+msgid "Location:"
+msgstr "위치 :"
+
+#: template-home.php:18
+msgid "House area:"
+msgstr "주거 지역 :"
+
+#: template-home.php:23
+msgid "Handing-over time"
+msgstr "전달 시간"
+
+#: template-home.php:30
+msgid "Buy a flat:"
+msgstr "평면 구입 : "
+
+#: template-home.php:32
+msgid "Update:"
+msgstr "업데이트 :"
+
+#: template-thank.php:6
+msgid "Thank you for registering"
+msgstr "등록 해 주셔서 감사합니다."
+
+#: template-thank.php:8
+msgid "We will contact you for the most accurate information"
+msgstr "가장 정확한 정보를 얻기 위해 연락 드리겠습니다"
+
+#: template-thank.php:10 template-thank.php:36
+msgid "Back to homepage"
+msgstr "홈페이지로 돌아 가기"
+
+#: template-thank.php:19
+msgid "Registration process completed"
+msgstr "등록 프로세스가 완료되었습니다"
+
+#: template-thank.php:20
+msgid "An email has been sent to your address"
+msgstr "귀하의 주소로 이메일을 보냈습니다."
+
+#: template-thank.php:22
+msgid ""
+"Please check email in incoming or outgoing spam and follow the instructions "
+"to receive project information"
+msgstr "들어오고 나가는 스팸의 이메일을 확인하고프로젝트 정보 받기"

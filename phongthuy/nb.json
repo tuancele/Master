@@ -1,0 +1,1414 @@
+﻿[
+  {
+    "Id": 1,
+    "Name": "Cung mệnh dành cho Nam",
+    "Supply": [
+      {
+        "Id": 1,
+        "Name": "Khảm",
+        "Good": [
+          {
+            "Title": "Tây nam - Diên niên",
+            "Text": "Mọi sự ổn định"
+          },
+          {
+            "Title": "Đông nam - Sinh khí",
+            "Text": "Phúc lộc vẹn toàn"
+          },
+          {
+            "Title": "Đông - Thiên y",
+            "Text": "Gặp thiên thời được che chở"
+          },
+          {
+            "Title": "Bắc - Phục vị",
+            "Text": "Được sự giúp đỡ"
+          }
+        ],
+        "Bad": [
+          {
+            "Title": "Tây nam - Tuyệt mệnh",
+            "Text": "Chết chóc"
+          },
+          {
+            "Title": "Đông bắc - Ngũ quỷ",
+            "Text": "Gặp tai họa"
+          },
+          {
+            "Title": "Tây bắc - Lục sát",
+            "Text": "Nhà có sát khí"
+          },
+          {
+            "Title": "Tây - Họa hại",
+            "Text": "Nhà có hung khí"
+          }
+        ],
+        "ImageUrl": "/bat-quai/kham.png"
+      },
+      {
+        "Id": 2,
+        "Name": "Ly",
+        "Good": [
+          {
+            "Title": "Bắc - Diên niên",
+            "Text": "Mọi sự ổn định"
+          },
+          {
+            "Title": "Đông - Sinh khí",
+            "Text": "Phúc lộc vẹn toàn"
+          },
+          {
+            "Title": "Đông nam - Thiên y",
+            "Text": "Gặp thiên thời được che chở"
+          },
+          {
+            "Title": "Nam - Phục vị",
+            "Text": "Được sự giúp đỡ"
+          }
+        ],
+        "Bad": [
+          {
+            "Title": "Tây bắc - Tuyệt mệnh",
+            "Text": "Chết chóc"
+          },
+          {
+            "Title": "Tây - Ngũ quỷ",
+            "Text": "Gặp tai họa"
+          },
+          {
+            "Title": "Tây nam - Lục sát",
+            "Text": "Nhà có sát khí"
+          },
+          {
+            "Title": "Đông bắc - Họa hại",
+            "Text": "Nhà có hung khí"
+          }
+        ],
+        "ImageUrl": "/bat-quai/ly.png"
+      },
+      {
+        "Id": 3,
+        "Name": "Cấn",
+        "Good": [
+          {
+            "Title": "Tây - Diên niên",
+            "Text": "Mọi sự ổn định"
+          },
+          {
+            "Title": "Tây nam - Sinh khí",
+            "Text": "Phúc lộc vẹn toàn"
+          },
+          {
+            "Title": "Tây bắc - Thiên y",
+            "Text": "Gặp thiên thời được che chở"
+          },
+          {
+            "Title": "Đông bắc - Phục vị",
+            "Text": "Được sự giúp đỡ"
+          }
+        ],
+        "Bad": [
+          {
+            "Title": "Đông nam - Tuyệt mệnh",
+            "Text": "Chết chóc"
+          },
+          {
+            "Title": "Bắc - Ngũ quỷ",
+            "Text": "Gặp tai họa"
+          },
+          {
+            "Title": "Đông - Lục sát",
+            "Text": "Nhà có sát khí"
+          },
+          {
+            "Title": "Nam - Họa hại",
+            "Text": "Nhà có hung khí"
+          }
+        ],
+        "ImageUrl": "/bat-quai/kan.png"
+      },
+      {
+        "Id": 4,
+        "Name": "Đoài",
+        "Good": [
+          {
+            "Title": "Đông bắc - Diên niên",
+            "Text": "Mọi sự ổn định"
+          },
+          {
+            "Title": "Tây bắc - Sinh khí",
+            "Text": "Phúc lộc vẹn toàn"
+          },
+          {
+            "Title": "Tây nam - Thiên y",
+            "Text": "Gặp thiên thời được che chở"
+          },
+          {
+            "Title": "Tây - Phục vị",
+            "Text": "Được sự giúp đỡ"
+          }
+        ],
+        "Bad": [
+          {
+            "Title": "Đông - Tuyệt mệnh",
+            "Text": "Chết chóc"
+          },
+          {
+            "Title": "Nam - Ngũ quỷ",
+            "Text": "Gặp tai họa"
+          },
+          {
+            "Title": "Đông nam - Lục sát",
+            "Text": "Nhà có sát khí"
+          },
+          {
+            "Title": "Bắc - Họa hại",
+            "Text": "Nhà có hung khí"
+          }
+        ],
+        "ImageUrl": "/bat-quai/doai.png"
+      },
+      {
+        "Id": 5,
+        "Name": "Càn",
+        "Good": [
+          {
+            "Title": "Tây nam - Diên niên",
+            "Text": "Mọi sự ổn định"
+          },
+          {
+            "Title": "Tây - Sinh khí",
+            "Text": "Phúc lộc vẹn toàn"
+          },
+          {
+            "Title": "Đông bắc - Thiên y",
+            "Text": "Gặp thiên thời được che chở"
+          },
+          {
+            "Title": "Tây bắc - Phục vị",
+            "Text": "Được sự giúp đỡ"
+          }
+        ],
+        "Bad": [
+          {
+            "Title": "Nam - Tuyệt mệnh",
+            "Text": "Chết chóc"
+          },
+          {
+            "Title": "Đông - Ngũ quỷ",
+            "Text": "Gặp tai họa"
+          },
+          {
+            "Title": "Bắc - Lục sát",
+            "Text": "Nhà có sát khí"
+          },
+          {
+            "Title": "Đông nam - Họa hại",
+            "Text": "Nhà có hung khí"
+          }
+        ],
+        "ImageUrl": "/bat-quai/can.png"
+      },
+      {
+        "Id": 6,
+        "Name": "Khôn",
+        "Good": [
+          {
+            "Title": "Tây bắc - Diên niên",
+            "Text": "Mọi sự ổn định"
+          },
+          {
+            "Title": "Đông bắc - Sinh khí",
+            "Text": "Phúc lộc vẹn toàn"
+          },
+          {
+            "Title": "Tây - Thiên y",
+            "Text": "Gặp thiên thời được che chở"
+          },
+          {
+            "Title": "Tây nam - Phục vị",
+            "Text": "Được sự giúp đỡ"
+          }
+        ],
+        "Bad": [
+          {
+            "Title": "Bắc - Tuyệt mệnh",
+            "Text": "Chết chóc"
+          },
+          {
+            "Title": "Đông nam - Ngũ quỷ",
+            "Text": "Gặp tai họa"
+          },
+          {
+            "Title": "Nam - Lục sát",
+            "Text": "Nhà có sát khí"
+          },
+          {
+            "Title": "Đông - Họa hại",
+            "Text": "Nhà có hung khí"
+          }
+        ],
+        "ImageUrl": "/bat-quai/khon.png"
+
+      },
+      {
+        "Id": 7,
+        "Name": "Tốn",
+        "Good": [
+          {
+            "Title": "Đông - Diên niên",
+            "Text": "Mọi sự ổn định"
+          },
+          {
+            "Title": "Bắc - Sinh khí",
+            "Text": "Phúc lộc vẹn toàn"
+          },
+          {
+            "Title": "Nam - Thiên y",
+            "Text": "Gặp thiên thời được che chở"
+          },
+          {
+            "Title": "Đông nam - Phục vị",
+            "Text": "Được sự giúp đỡ"
+          }
+        ],
+        "Bad": [
+          {
+            "Title": "Đông bắc - Tuyệt mệnh",
+            "Text": "Chết chóc"
+          },
+          {
+            "Title": "Tây nam - Ngũ quỷ",
+            "Text": "Gặp tai họa"
+          },
+          {
+            "Title": "Tây - Lục sát",
+            "Text": "Nhà có sát khí"
+          },
+          {
+            "Title": "Tây bắc - Họa hại",
+            "Text": "Nhà có hung khí"
+          }
+        ],
+        "ImageUrl": "/bat-quai/ton.png"
+      },
+      {
+        "Id": 8,
+        "Name": "Chấn",
+        "Good": [
+          {
+            "Title": "Đông nam - Diên niên",
+            "Text": "Mọi sự ổn định"
+          },
+          {
+            "Title": "Nam - Sinh khí",
+            "Text": "Phúc lộc vẹn toàn"
+          },
+          {
+            "Title": "Bắc - Thiên y",
+            "Text": "Gặp thiên thời được che chở"
+          },
+          {
+            "Title": "Đông - Phục vị",
+            "Text": "Được sự giúp đỡ"
+          }
+        ],
+        "Bad": [
+          {
+            "Title": "Tây - Tuyệt mệnh",
+            "Text": "Chết chóc"
+          },
+          {
+            "Title": "Tây bắc - Ngũ quỷ",
+            "Text": "Gặp tai họa"
+          },
+          {
+            "Title": "Đông bắc - Lục sát",
+            "Text": "Nhà có sát khí"
+          },
+          {
+            "Title": "Tây nam - Họa hại",
+            "Text": "Nhà có hung khí"
+          }
+        ],
+        "ImageUrl": "/bat-quai/chan.png"
+
+      },
+      {
+        "Id": 9,
+        "Name": "Khôn",
+        "Good": [
+          {
+            "Title": "Tây bắc - Diên niên",
+            "Text": "Mọi sự ổn định"
+          },
+          {
+            "Title": "Đông bắc - Sinh khí",
+            "Text": "Phúc lộc vẹn toàn"
+          },
+          {
+            "Title": "Tây - Thiên y",
+            "Text": "Gặp thiên thời được che chở"
+          },
+          {
+            "Title": "Tây nam - Phục vị",
+            "Text": "Được sự giúp đỡ"
+          }
+        ],
+        "Bad": [
+          {
+            "Title": "Bắc - Tuyệt mệnh",
+            "Text": "Chết chóc"
+          },
+          {
+            "Title": "Đông nam - Ngũ quỷ",
+            "Text": "Gặp tai họa"
+          },
+          {
+            "Title": "Nam - Lục sát",
+            "Text": "Nhà có sát khí"
+          },
+          {
+            "Title": "Đông - Họa hại",
+            "Text": "Nhà có hung khí"
+          }
+        ],
+        "ImageUrl": "/bat-quai/khon.png"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Name": "Cung mệnh dành cho Nữ",
+    "Supply": [
+      {
+        "Id": 1,
+        "Name": "Cấn",
+        "Good": [
+          {
+            "Title": "Tây - Diên niên",
+            "Text": "Mọi sự ổn định"
+          },
+          {
+            "Title": "Tây nam - Sinh khí",
+            "Text": "Phúc lộc vẹn toàn"
+          },
+          {
+            "Title": "Tây bắc - Thiên y",
+            "Text": "Gặp thiên thời được che chở"
+          },
+          {
+            "Title": "Đông bắc - Phục vị",
+            "Text": "Được sự giúp đỡ"
+          }
+        ],
+        "Bad": [
+          {
+            "Title": "Đông nam - Tuyệt mệnh",
+            "Text": "Chết chóc"
+          },
+          {
+            "Title": "Bắc - Ngũ quỷ",
+            "Text": "Gặp tai họa"
+          },
+          {
+            "Title": "Đông - Lục sát",
+            "Text": "Nhà có sát khí"
+          },
+          {
+            "Title": "Nam - Họa hại",
+            "Text": "Nhà có hung khí"
+          }
+        ],
+        "ImageUrl": "/bat-quai/kan.png"
+
+      },
+      {
+        "Id": 2,
+        "Name": "Càn",
+        "Good": [
+          {
+            "Title": "Tây nam - Diên niên",
+            "Text": "Mọi sự ổn định"
+          },
+          {
+            "Title": "Tây - Sinh khí",
+            "Text": "Phúc lộc vẹn toàn"
+          },
+          {
+            "Title": "Đông bắc - Thiên y",
+            "Text": "Gặp thiên thời được che chở"
+          },
+          {
+            "Title": "Tây bắc - Phục vị",
+            "Text": "Được sự giúp đỡ"
+          }
+        ],
+        "Bad": [
+          {
+            "Title": "Nam - Tuyệt mệnh",
+            "Text": "Chết chóc"
+          },
+          {
+            "Title": "Đông - Ngũ quỷ",
+            "Text": "Gặp tai họa"
+          },
+          {
+            "Title": "Bắc - Lục sát",
+            "Text": "Nhà có sát khí"
+          },
+          {
+            "Title": "Đông nam - Họa hại",
+            "Text": "Nhà có hung khí"
+          }
+        ],
+        "ImageUrl": "/bat-quai/can.png"
+
+      },
+      {
+        "Id": 3,
+        "Name": "Đoài",
+        "Good": [
+          {
+            "Title": "Đông bắc - Diên niên",
+            "Text": "Mọi sự ổn định"
+          },
+          {
+            "Title": "Tây bắc - Sinh khí",
+            "Text": "Phúc lộc vẹn toàn"
+          },
+          {
+            "Title": "Tây nam - Thiên y",
+            "Text": "Gặp thiên thời được che chở"
+          },
+          {
+            "Title": "Tây - Phục vị",
+            "Text": "Được sự giúp đỡ"
+          }
+        ],
+        "Bad": [
+          {
+            "Title": "Đông - Tuyệt mệnh",
+            "Text": "Chết chóc"
+          },
+          {
+            "Title": "Nam - Ngũ quỷ",
+            "Text": "Gặp tai họa"
+          },
+          {
+            "Title": "Đông nam - Lục sát",
+            "Text": "Nhà có sát khí"
+          },
+          {
+            "Title": "Bắc - Họa hại",
+            "Text": "Nhà có hung khí"
+          }
+        ],
+        "ImageUrl": "/bat-quai/doai.png"
+      },
+      {
+        "Id": 4,
+        "Name": "Cấn",
+        "Good": [
+          {
+            "Title": "Tây - Diên niên",
+            "Text": "Mọi sự ổn định"
+          },
+          {
+            "Title": "Tây nam - Sinh khí",
+            "Text": "Phúc lộc vẹn toàn"
+          },
+          {
+            "Title": "Tây bắc - Thiên y",
+            "Text": "Gặp thiên thời được che chở"
+          },
+          {
+            "Title": "Đông bắc - Phục vị",
+            "Text": "Được sự giúp đỡ"
+          }
+        ],
+        "Bad": [
+          {
+            "Title": "Đông nam - Tuyệt mệnh",
+            "Text": "Chết chóc"
+          },
+          {
+            "Title": "Bắc - Ngũ quỷ",
+            "Text": "Gặp tai họa"
+          },
+          {
+            "Title": "Đông - Lục sát",
+            "Text": "Nhà có sát khí"
+          },
+          {
+            "Title": "Nam - Họa hại",
+            "Text": "Nhà có hung khí"
+          }
+        ],
+        "ImageUrl": "/bat-quai/kan.png"
+      },
+      {
+        "Id": 5,
+        "Name": "Ly",
+        "Good": [
+          {
+            "Title": "Bắc - Diên niên",
+            "Text": "Mọi sự ổn định"
+          },
+          {
+            "Title": "Đông - Sinh khí",
+            "Text": "Phúc lộc vẹn toàn"
+          },
+          {
+            "Title": "Đông nam - Thiên y",
+            "Text": "Gặp thiên thời được che chở"
+          },
+          {
+            "Title": "Nam - Phục vị",
+            "Text": "Được sự giúp đỡ"
+          }
+        ],
+        "Bad": [
+          {
+            "Title": "Tây bắc - Tuyệt mệnh",
+            "Text": "Chết chóc"
+          },
+          {
+            "Title": "Tây - Ngũ quỷ",
+            "Text": "Gặp tai họa"
+          },
+          {
+            "Title": "Tây nam - Lục sát",
+            "Text": "Nhà có sát khí"
+          },
+          {
+            "Title": "Đông bắc - Họa hại",
+            "Text": "Nhà có hung khí"
+          }
+        ],
+        "ImageUrl": "/bat-quai/ly.png"
+      },
+      {
+        "Id": 6,
+        "Name": "Khảm",
+        "Good": [
+          {
+            "Title": "Tây nam - Diên niên",
+            "Text": "Mọi sự ổn định"
+          },
+          {
+            "Title": "Đông nam - Sinh khí",
+            "Text": "Phúc lộc vẹn toàn"
+          },
+          {
+            "Title": "Đông - Thiên y",
+            "Text": "Gặp thiên thời được che chở"
+          },
+          {
+            "Title": "Bắc - Phục vị",
+            "Text": "Được sự giúp đỡ"
+          }
+        ],
+        "Bad": [
+          {
+            "Title": "Tây nam - Tuyệt mệnh",
+            "Text": "Chết chóc"
+          },
+          {
+            "Title": "Đông bắc - Ngũ quỷ",
+            "Text": "Gặp tai họa"
+          },
+          {
+            "Title": "Tây bắc - Lục sát",
+            "Text": "Nhà có sát khí"
+          },
+          {
+            "Title": "Tây - Họa hại",
+            "Text": "Nhà có hung khí"
+          }
+        ],
+        "ImageUrl": "/bat-quai/kham.png"
+      },
+      {
+        "Id": 7,
+        "Name": "Khôn",
+        "Good": [
+          {
+            "Title": "Tây bắc - Diên niên",
+            "Text": "Mọi sự ổn định"
+          },
+          {
+            "Title": "Đông bắc - Sinh khí",
+            "Text": "Phúc lộc vẹn toàn"
+          },
+          {
+            "Title": "Tây - Thiên y",
+            "Text": "Gặp thiên thời được che chở"
+          },
+          {
+            "Title": "Tây nam - Phục vị",
+            "Text": "Được sự giúp đỡ"
+          }
+        ],
+        "Bad": [
+          {
+            "Title": "Bắc - Tuyệt mệnh",
+            "Text": "Chết chóc"
+          },
+          {
+            "Title": "Đông nam - Ngũ quỷ",
+            "Text": "Gặp tai họa"
+          },
+          {
+            "Title": "Nam - Lục sát",
+            "Text": "Nhà có sát khí"
+          },
+          {
+            "Title": "Đông - Họa hại",
+            "Text": "Nhà có hung khí"
+          }
+        ],
+        "ImageUrl": "/bat-quai/khon.png"
+
+      },
+      {
+        "Id": 8,
+        "Name": "Chấn",
+        "Good": [
+          {
+            "Title": "Tây bắc - Diên niên",
+            "Text": "Mọi sự ổn định"
+          },
+          {
+            "Title": "Đông bắc - Sinh khí",
+            "Text": "Phúc lộc vẹn toàn"
+          },
+          {
+            "Title": "Tây - Thiên y",
+            "Text": "Gặp thiên thời được che chở"
+          },
+          {
+            "Title": "Tây nam - Phục vị",
+            "Text": "Được sự giúp đỡ"
+          }
+        ],
+        "Bad": [
+          {
+            "Title": "Bắc - Tuyệt mệnh",
+            "Text": "Chết chóc"
+          },
+          {
+            "Title": "Đông nam - Ngũ quỷ",
+            "Text": "Gặp tai họa"
+          },
+          {
+            "Title": "Nam - Lục sát",
+            "Text": "Nhà có sát khí"
+          },
+          {
+            "Title": "Đông - Họa hại",
+            "Text": "Nhà có hung khí"
+          }
+        ],
+        "ImageUrl": "/bat-quai/chan.png"
+
+      },
+      {
+        "Id": 9,
+        "Name": "Tốn",
+        "Good": [
+          {
+            "Title": "Đông - Diên niên",
+            "Text": "Mọi sự ổn định"
+          },
+          {
+            "Title": "Bắc - Sinh khí",
+            "Text": "Phúc lộc vẹn toàn"
+          },
+          {
+            "Title": "Nam - Thiên y",
+            "Text": "Gặp thiên thời được che chở"
+          },
+          {
+            "Title": "Đông nam - Phục vị",
+            "Text": "Được sự giúp đỡ"
+          }
+        ],
+        "Bad": [
+          {
+            "Title": "Đông bắc - Tuyệt mệnh",
+            "Text": "Chết chóc"
+          },
+          {
+            "Title": "Tây nam - Ngũ quỷ",
+            "Text": "Gặp tai họa"
+          },
+          {
+            "Title": "Tây - Lục sát",
+            "Text": "Nhà có sát khí"
+          },
+          {
+            "Title": "Tây bắc - Họa hại",
+            "Text": "Nhà có hung khí"
+          }
+        ],
+        "ImageUrl": "/bat-quai/ton.png"
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "NamTuoi": [
+      {
+        "Value": 4,
+        "Name": "Giáp Tý",
+        "Alias": "giap-ty",
+        "ImageUrl": "/01-ty.png"
+      },
+      {
+        "Value": 16,
+        "Name": "Bính Tý",
+        "Alias": "binh-ty",
+        "ImageUrl": "/01-ty.png"
+      },
+      {
+        "Value": 28,
+        "Name": "Mậu Tý",
+        "Alias": "mau-ty",
+        "ImageUrl": "/01-ty.png"
+      },
+      {
+        "Value": 40,
+        "Name": "Canh Tý",
+        "Alias": "canh-ty",
+        "ImageUrl": "/01-ty.png"
+      },
+      {
+        "Value": 52,
+        "Name": "Nhâm Tý",
+        "Alias": "nham-ty",
+        "ImageUrl": "/01-ty.png"
+      },
+      {
+        "Value": 5,
+        "Name": "Ất Sửu",
+        "Alias": "at-suu",
+        "ImageUrl": "/02-suu.png"
+      },
+      {
+        "Value": 17,
+        "Name": "Đinh Sửu",
+        "Alias": "dinh-suu",
+        "ImageUrl": "/02-suu.png"
+      },
+      {
+        "Value": 29,
+        "Name": "Kỷ Sửu",
+        "Alias": "ky-suu",
+        "ImageUrl": "/02-suu.png"
+      },
+      {
+        "Value": 41,
+        "Name": "Tân Sửu",
+        "Alias": "tan-suu",
+        "ImageUrl": "/02-suu.png"
+      },
+      {
+        "Value": 53,
+        "Name": "Quý Sửu",
+        "Alias": "giap-suu",
+        "ImageUrl": "/02-suu.png"
+      },
+      {
+        "Value": 54,
+        "Name": "Giáp Dần",
+        "Alias": "giap-dan",
+        "ImageUrl": "/03-dan.png"
+      },
+      {
+        "Value": 6,
+        "Name": "Bính Dần",
+        "Alias": "binh-dan",
+        "ImageUrl": "/03-dan.png"
+      },
+      {
+        "Value": 18,
+        "Name": "Mậu Dần",
+        "Alias": "mau-dan",
+        "ImageUrl": "/03-dan.png"
+      },
+      {
+        "Value": 30,
+        "Name": "Canh Dần",
+        "Alias": "canh-dan",
+        "ImageUrl": "/03-dan.png"
+      },
+      {
+        "Value": 42,
+        "Name": "Nhâm Dần",
+        "Alias": "nham-dan",
+        "ImageUrl": "/03-dan.png"
+      },
+      {
+        "Value": 55,
+        "Name": "Ất Mão",
+        "Alias": "at-mao",
+        "ImageUrl": "/04-mao.png"
+      },
+      {
+        "Value": 7,
+        "Name": "Đinh Mão",
+        "Alias": "dinh-mao",
+        "ImageUrl": "/04-mao.png"
+      },
+      {
+        "Value": 19,
+        "Name": "Kỷ Mão",
+        "Alias": "ky-mao",
+        "ImageUrl": "/04-mao.png"
+      },
+      {
+        "Value": 31,
+        "Name": "Tân Mão",
+        "Alias": "tan-mao",
+        "ImageUrl": "/04-mao.png"
+      },
+      {
+        "Value": 43,
+        "Name": "Quý Mão",
+        "Alias": "qui-mao",
+        "ImageUrl": "/04-mao.png"
+      },
+      {
+        "Value": 44,
+        "Name": "Giáp Thìn",
+        "Alias": "giap-thin",
+        "ImageUrl": "/08-mui.png"
+      },
+      {
+        "Value": 56,
+        "Name": "Bính Thìn",
+        "Alias": "binh-thin",
+        "ImageUrl": "/08-mui.png"
+      },
+      {
+        "Value": 8,
+        "Name": "Mậu Thìn",
+        "Alias": "mau-thin",
+        "ImageUrl": "/08-mui.png"
+      },
+      {
+        "Value": 20,
+        "Name": "Canh Thìn",
+        "Alias": "canh-thin",
+        "ImageUrl": "/08-mui.png"
+      },
+      {
+        "Value": 32,
+        "Name": "Nhâm Thìn",
+        "Alias": "nham-thin",
+        "ImageUrl": "/08-mui.png"
+      },
+      {
+        "Value": 45,
+        "Name": "Ất Tỵ",
+        "Alias": "at-ty",
+        "ImageUrl": "/06-ty.png"
+      },
+      {
+        "Value": 57,
+        "Name": "Đinh Tỵ",
+        "Alias": "dinh-ty",
+        "ImageUrl": "/06-ty.png"
+      },
+      {
+        "Value": 9,
+        "Name": "Kỷ Tỵ",
+        "Alias": "ky-ty",
+        "ImageUrl": "/06-ty.png"
+      },
+      {
+        "Value": 21,
+        "Name": "Tân Tỵ",
+        "Alias": "tan-ty",
+        "ImageUrl": "/06-ty.png"
+      },
+      {
+        "Value": 33,
+        "Name": "Quý Tỵ",
+        "Alias": "qui-ty",
+        "ImageUrl": "/06-ty.png"
+      },
+      {
+        "Value": 34,
+        "Name": "Giáp Ngọ",
+        "Alias": "giap-ngo",
+        "ImageUrl": "/07-ngo.png"
+      },
+      {
+        "Value": 46,
+        "Name": "Bính Ngọ",
+        "Alias": "binh-ngo",
+        "ImageUrl": "/07-ngo.png"
+      },
+      {
+        "Value": 58,
+        "Name": "Mậu Ngọ",
+        "Alias": "mau-ngo",
+        "ImageUrl": "/07-ngo.png"
+      },    
+      {
+        "Value": 10,
+        "Name": "Canh Ngọ",
+        "Alias": "canh-ngo",
+        "ImageUrl": "/07-ngo.png"
+      },
+      {
+        "Value": 22,
+        "Name": "Nhâm Ngọ",
+        "Alias": "nham-ngo",
+        "ImageUrl": "/07-ngo.png"
+      },
+      {
+        "Value": 35,
+        "Name": "Ất Mùi",
+        "Alias": "at-mui",
+        "ImageUrl": "/08-mui.png"
+      },
+      {
+        "Value": 47,
+        "Name": "Đinh Mùi",
+        "Alias": "dinh-mui",
+        "ImageUrl": "/08-mui.png"
+      },
+      {
+        "Value": 59,
+        "Name": "Kỷ Mùi",
+        "Alias": "ky-mui",
+        "ImageUrl": "/08-mui.png"
+      },
+      {
+        "Value": 11,
+        "Name": "Tân Mùi",
+        "Alias": "tan-mui",
+        "ImageUrl": "/08-mui.png"
+      },
+      {
+        "Value": 23,
+        "Name": "Quý Mùi",
+        "Alias": "qui-mui",
+        "ImageUrl": "/08-mui.png"
+      },
+      {
+        "Value": 24,
+        "Name": "Giáp Thân",
+        "Alias": "giap-than",
+        "ImageUrl": "/09-than.png"
+      },
+      {
+        "Value": 36,
+        "Name": "Bính Thân",
+        "Alias": "binh-than",
+        "ImageUrl": "/09-than.png"
+      },
+      {
+        "Value": 48,
+        "Name": "Mậu Thân",
+        "Alias": "giap-ty",
+        "ImageUrl": "/09-than.png"
+      },
+      {
+        "Value": 0,
+        "Name": "Canh Thân",
+        "Alias": "canh-than",
+        "ImageUrl": "/09-than.png"
+      },
+      {
+        "Value": 12,
+        "Name": "Nhâm Thân",
+        "Alias": "nham-than",
+        "ImageUrl": "/09-than.png"
+      },
+      {
+        "Value": 25,
+        "Name": "Ất Dậu",
+        "Alias": "at-dau",
+        "ImageUrl": "/10-dau.png"
+      },
+      {
+        "Value": 37,
+        "Name": "Đinh Dậu",
+        "Alias": "dinh-dau",
+        "ImageUrl": "/10-dau.png"
+      },
+      {
+        "Value": 49,
+        "Name": "Kỷ Dậu",
+        "Alias": "ky-dau",
+        "ImageUrl": "/10-dau.png"
+      },
+      {
+        "Value": 1,
+        "Name": "Tân Dậu",
+        "Alias": "tan-dau",
+        "ImageUrl": "/10-dau.png"
+      },
+      {
+        "Value": 13,
+        "Name": "Quý Dậu",
+        "Alias": "qui-dau",
+        "ImageUrl": "/10-dau.png"
+      },
+      {
+        "Value": 14,
+        "Name": "Giáp Tuất",
+        "Alias": "giap-tuat",
+        "ImageUrl": "/11-tuat.png"
+      },
+      {
+        "Value": 26,
+        "Name": "Bính Tuất",
+        "Alias": "binh-tuat",
+        "ImageUrl": "/11-tuat.png"
+      },
+      {
+        "Value": 38,
+        "Name": "Mậu Tuất",
+        "Alias": "mau-tuat",
+        "ImageUrl": "/11-tuat.png"
+      },
+      {
+        "Value": 50,
+        "Name": "Canh Tuất",
+        "Alias": "canh-tuat",
+        "ImageUrl": "/11-tuat.png"
+      },
+      {
+        "Value": 2,
+        "Name": "Nhâm Tuất",
+        "Alias": "nham-tuat",
+        "ImageUrl": "/11-tuat.png"
+      },
+      {
+        "Value": 15,
+        "Name": "Ất Hợi",
+        "Alias": "at-hoi",
+        "ImageUrl": "/12-hoi.png"
+      },
+      {
+        "Value": 27,
+        "Name": "Đinh Hợi",
+        "Alias": "dinh-hoi",
+        "ImageUrl": "/12-hoi.png"
+      },
+      {
+        "Value": 39,
+        "Name": "Kỷ Hợi",
+        "Alias": "ky-hoi",
+        "ImageUrl": "/12-hoi.png"
+      },
+      {
+        "Value": 51,
+        "Name": "Tân Hợi",
+        "Alias": "tan-hoi",
+        "ImageUrl": "/12-hoi.png"
+      },
+      {
+        "Value": 3,
+        "Name": "Quý Hợi",
+        "Alias": "qui-hoi",
+        "ImageUrl": "/12-hoi.png"
+      }
+    ]   
+  },
+  {
+    "Id": 4,
+    "TamTai": [
+      {
+        "Id": "than, ty, thin",
+        "MenhTamTai": "dan, mao, thin",
+        "Name": "Dần, Mão, Thìn"
+      },
+      {
+        "Id": "ti, dau, suu",
+        "MenhTamTai": "hoi, ty, suu",
+        "Name": "Hợi, Tý, Sửu"
+
+      },
+      {
+        "Id": "hoi, mao, mui",
+        "MenhTamTai": "ti, ngo, mui",
+        "Name": "Tỵ, Ngọ, Mùi"
+      },
+      {
+        "Id": "dan, ngo, tuat",
+        "MenhTamTai": "than, dau, tuat",
+        "Name": "Thân, Dậu, Tuất"
+      }
+    ],
+    "CuuTrach": [
+      {
+        "Id": 1,
+        "Type": "Phúc",
+        "Kind": "tot"
+      },
+      {
+        "Id": 2,
+        "Type": "Đức",
+        "Kind": "tot"
+      },
+      {
+        "Id": 3,
+        "Type": "Bại",
+        "Kind": "Xau"
+      },
+      {
+        "Id": 4,
+        "Type": "Hư",
+        "Kind": "Xau"
+      },
+      {
+        "Id": 5,
+        "Type": "Khắc",
+        "Kind": "Xau"
+      },
+      {
+        "Id": 6,
+        "Type": "Quỷ",
+        "Kind": "Xau"
+      },
+      {
+        "Id": 7,
+        "Type": "Tử",
+        "Kind": "Xau"
+      },
+      {
+        "Id": 8,
+        "Type": "Bảo",
+        "Kind": "tot"
+      },
+      {
+        "Id": 9,
+        "Type": "Lộc",
+        "Kind": "tot"
+      }
+    ],
+    "HoangOc": [
+      {
+        "Id": 1,
+        "Name": "Nhất Cát",
+        "Kind": "tot"
+      },
+      {
+        "Id": 2,
+        "Name": "Nhị Nghi",
+        "Kind": "tot"
+      },
+      {
+        "Id": 3,
+        "Name": "Tam Địa Sát",
+        "Kind": "xau"
+      },
+      {
+        "Id": 4,
+        "Name": "Tứ Tấn Tài",
+        "Kind": "tot"
+      },
+      {
+        "Id": 5,
+        "Name": "Ngũ Thọ Tử",
+        "Kind": "xau"
+      },
+      {
+        "Id": 6,
+        "Name": "Lục Hoang Ốc",
+        "Kind": "xau"
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "Name": "Mệnh Ngũ Hành",
+    "Fate": [
+      {
+        "Id": 1,
+        "Alias": "giap-ty, at-suu",
+        "Name": "Hải Trung Kim",
+        "Describe": "Bởi ngũ hành của tý đối ứng là thủy, thủy còn gọi là hồ lớn, nơi đó thế thủy thịnh vượng. Trong ngũ hành kim tử ở tý, tang mộ ở sửu. Thủy thế thịnh vượng kim lại tử ở đó cho nên gọi là Hải trung kim."
+      },
+      {
+        "Id": 2,
+        "Alias": "binh-dan, dinh-mao",
+        "Name": "Lô Trung Hỏa",
+        "Describe": "Dần ở địa chi là ngôi thứ 3, Mão ở địa chi là ngôi thứ 4, (bính, đinh trong ngũ hành thuộc hỏa) hỏa đã đạt đến vị trí chính lại được dần mão thuộc mộc. Trong ngũ hành trợ giúp. Khi này trời đất phảng phất như lửa trong lò mới sinh, vạn vật vừa mới bắt đầu sinh trưởng mà gọi là Lô Trung hỏa trời đất như lò lửa, âm dương như than củi."
+      },
+      {
+        "Id": 3,
+        "Alias": "mau-thin, ky-ty",
+        "Name": "Đại Lâm Mộc",
+        "Describe": "Thìn đại biểu cho đất đai hoang dã, tỵ đứng ngôi thứ 6 trong địa chi. Mộc ở ngôi thứ 6 có lợi sinh cành lá xum xuê. Cây to xum xuê sinh ở nơi đất đai hoang dã mà gọi là Đại Lâm mộc."
+      },
+      {
+        "Id": 4,
+        "Alias": "canh-ngo, tan-mui",
+        "Name": "Lộ Bàng Thổ",
+        "Describe": "Mùi ngũ hành là thổ sinh mộc, khiến cho ngọ ngũ hành là hỏa được thành ra hỏa vượng. Kết quả là thổ ngược lại bị chịu trở ngại. Thổ là nơi sinh vật (mộc), mộc lại sinh hỏa, hỏa phản lại đốt thổ. Cho nên thổ bị chịu hại lấy bản thân giống như đất bụi ven đường mà gọi là Lộ bàng thổ. Lộ bàng thổ nếu được thủy tưới có thể về với thổ mà sinh vạn vật. Nếu được kim giúp thì xây dựng cung điện phú quý một thời."
+      },
+      {
+        "Id": 5,
+        "Alias": "nham-than, quy-dau",
+        "Name": "Kiếm Phong Kim",
+        "Describe": "Bởi ngũ hành của tý đối ứng là thủy, thủy còn gọi là hồ lớn, nơi đó thế thủy thịnh vượng. Trong ngũ hành kim tử ở tý, tang mộ ở sửu. Thủy thế thịnh vượng kim lại tử ở đó cho nên gọi là Hải trung kim."
+      },
+      {
+        "Id": 6,
+        "Alias": "giap-tuat, at-hoi",
+        "Name": "Sơn Đầu Hỏa",
+        "Describe": "Tuất hợi là cửa trời ( giáp ất thuộc mộc) đốt lửa soi sáng cửa trời, ánh lửa nhất định chiếu đến cực cao. Cho nên đem nó gọi là lửa trên núi. Nắng chiều tà mặt trời gác núi tỏa sáng lung linh, do đó hỏa trên núi có thể phản ánh được ráng trời. <br> Sơn đầu hỏa có thể thông với trời nên mệnh này quý và hiển vinh. Nhưng cần núi có mộc, có hỏa không thì ánh lửa khó chiếu đến cửa trời. Ngoài ra lửa ở núi lại sợ thủy, nếu gặp đại hải thủy ( nhâm tuất quý hợi) tương khắc thì hung thần tới nơi."
+      },
+      {
+        "Id": 7,
+        "Alias": "binh-ty, dinh-suu",
+        "Name": "Giản Hạ Thủy",
+        "Describe": "Thủy ở trong ngũ hành vượng ở tý suy ở sửu. Thủy trong Bính tý đinh sửu thịnh vượng nhưng lại suy yếu. Cho nên không thể thành nước ở sông mà gọi là nước ở khe suối, khi mới thì lăn tăn gợn sóng, tiếp sau là đó hợp thành dòng chảy xiết va vào đá mà tung tóe như hạt tuyết. Cuối cùng hợp với các nhánh thành dòng lớn chảy về hạ lưu. Nước khe núi là nước trong thanh mảnh. Theo như trong sách là thủy được kim thích hợp gặp cát và kim lưỡi kiếm ( giáp ngọ ất mùi sa trung kim, nhâm thân quý dậu kim lưỡi kiếm). Nhưng không gặp được mệnh của thổ và hỏa. Thủy hỏa chẳng dung nạp nhau, thổ lại làm cho nước suối đục. Tốt nhất là gặp (giáp dần ất mão đại khê thủy) tương hợp tượng trưng cho suối nhỏ hợp thành sông càng chảy càng dài không phải lo nghĩ."
+      },
+      {
+        "Id": 8,
+        "Alias": "mau-dan, ky-mao",
+        "Name": "Thành Đầu Thổ",
+        "Describe": "Thiên can mậu kỷ ngũ hành thuộc thổ, dần mão ngũ hành thuộc mộc, giống như tích thổ thành núi, phảng phất như đắp đất thành tường cho nên gọi là đất trên thành. Kinh đô của hoàng đế cư trú dùng đất đắp thành, lấy gạch xây thành như hình rồng cuốn chạy dài nghìn dặm, mãnh hổ tọa thế trấn bốn phương. Mệnh này gặp nước gặp núi là hiển quy. Trong thành gặp núi gặp nước là núi giả, nước tù không phải là quý. Nên kỵ nhâm tuất quý hợi Đại hải thủy mậu tý kỷ sửu Bích lôi hỏa, Tích lịch hỏa."
+      },
+      {
+        "Id": 9,
+        "Alias": "canh-thin, tan-ty",
+        "Name": "Bạch Lạp Kim",
+        "Describe": "Kim hình thành trong đất mà sau lại ở cùng với hỏa. Tuy hình thái của kim đã bước đầu hình thành nhưng chưa cứng rắn. Cho nên gọi là kim giá đèn. Khi này khí của kim vừa mới phát triển, giao hòa với tinh hoa của mặt trời mặt trăng mà ngưng kết khí của âm dương. Tính chất mới hình thành của kim giá đèn thích thủy như canh thìn tân tỵ gặp ất tỵ trong số mệnh gọi là “ Phong mãnh hổ cách” thi cử học tập có đường đi tốt đẹp. Lại như gặp thủy thì thích gặp ở ất dậu, quý tỵ. Trong số mệnh cho là mệnh quý. Nhưng bởi vì Bạch lạp kim tính yếu cho nên sợ mộc khắc nó trừ khi nó gặp được hỏa yếu cần phải có mộc lại trợ giúp."
+      },
+      {
+        "Id": 10,
+        "Alias": "nhan-ngo, quy-mui",
+        "Name": "Dương Liễu Mộc",
+        "Describe": "Mộc tử ở Ngọ mộ tàng ở mùi. Mộc đã tử vong tàng mộ, chỉ có thể mượn thiên can Nhâm quý thủy trong ngũ hành để cứu sống nó. Nhưng rốt cục sức sống mộc vẫn yếu đuối cho nên gọi là gỗ cây liễu. Nó giống như tằm nhả vạn mối dây tơ. Cây dương liễu chỉ thích hợp với Bính tuất đinh hợi thổ, nhưng lại thích thủy, trừ đại hải thủy ra thì đều tốt. Bản tính dương liễu tính mộc yếu đuối gặp hỏa thì dễ chết yểu, đồng thời nếu gặp Canh thìn tân dậu Thạch Lựu mộc sẽ bị cây thạch lựu thịnh vượng áp chế, khiến cho dương liễu mộc một đời bần tiện."
+      },
+      {
+        "Id": 11,
+        "Alias": "giap-than, at-dau",
+        "Name": "Tuyền Trung Thủy",
+        "Describe": "Kim kiến lộc ở thân, vượng ở dậu. Kim sau khi sinh thịnh vượng đến cực điểm thì dựa vào hỏa để sinh thủy, nhưng thủy khi mới sinh thì ít ỏi, thế lại không vượng cho nên gọi là nước trong suối. Từ nguồn gốc của nó mà nói, có kim thì nguồn thủy không bao giờ dừng. Lấy giáp ngọ ất mùi sa trung kim, canh tuất tân hợi thoa xuyến kim là tốt, gặp thủy gặp mộc cũng tốt. Nếu như trong tứ trụ năm tháng ngày giờ thì năm và giờ trụ đều có thủy, ngày tháng hai trụ đều có mộc như vậy gọi là mệnh đại phú đại quý."
+      },
+      {
+        "Id": 12,
+        "Alias": "mau-ty, ky-suu",
+        "Name": "Bích Lôi Hỏa",
+        "Describe": "Ngũ hành sửu thuộc thổ, ngũ hành tý thuộc thủy, thủy ở chính vị mà với nạp âm gọi hỏa. Đây là hỏa trong thủy, là thuộc tính rồng thần, cho nên ví nó như lửa sấm sét. Lửa sấm, sét thế như điện chớp biến ảo vô cùng. Bản chất thủy hỏa vốn chẳng bao dung nhau mà nay thủy hỏa hợp nhất, sách xưa cho là một loại rồng thần. Rồng thần khi đến không thể không có gió mưa sấm chớp, do đó Bích lôi hỏa với thủy thổ mộc gặp nhau hoặc tốt hoặc không có hại. Cái kỵ tức là hỏa, bởi vì hai hỏa gặp nhau tính khô nên xấu."
+      },
+      {
+        "Id": 13,
+        "Alias": "binh-tuat, dinh-hoi",
+        "Name": "Ốc Thượng Thổ",
+        "Describe": "Bính đinh ngũ hành thuộc hỏa, tuất hợi như cánh cửa trời. Hỏa đang cháy lại ở trên cao vậy thì thổ tự nhiên không ở bên dưới, cho nên gọi là đất trên mái nhà. Ở đây giải thích không được đúng lắm vì đất trên mái nhà thực tế chỉ là gạch ngói. Tuất hợi như thổ một thủy hòa lại thành bùn, lấy hỏa nung mới thành gạch ngói xây nhà lợp phòng. Đất trên mái nhà đã là gạch ngói, nó là đồ để lợp nhà đương nhiên cần mộc là giá đỡ, sau mới cần kim để trang điểm. Phòng ốc kim huy hoàng là tượng trưng cho đại cát đại quý. Cho nên gặp kim lưỡi gươm, kim trang sức đều là mệnh phú quý. Nhà cửa sợ gặp hỏa hoạn cho nên ốc thượng thổ cũng sợ hỏa. Nhưng thiên thượng hỏa lại rất tốt vì thiên thượng hỏa tượng trưng cho ánh nắng mặt trời."
+      },
+      {
+        "Id": 14,
+        "Alias": "canh-dan, tan-mao",
+        "Name": "Tùng Bách Mộc",
+        "Describe": "Mộc trong ngũ hành trưởng thành ở dần, thịnh vượng ở mão. Mộc thế sinh thịnh vượng không phải loại yếu đuối, cho nên gọi nó là gỗ cây tùng, tích huyết hứng sương che nắng mặt trời, gió thổi qua vi vu như nhạc cụ cành là dao động như lá cờ bay. Cây tùng là loại cây có sức sống mãnh liệt, cho nên trong hỏa chỉ có Bính dần, đinh mão là lửa trong lò, trong thủy chỉ có Nhâm tuất, quý hợi đại hải thủy mới có thể hại được nó, ngoài ra tất cả đều vô hại. Tùng bách mộc sợ gặp đại lâm mộc, dương liễu mộc, tuy cùng là mộc nhưng chất không giống tùng bách mà sinh lòng đố kỵ. Tùng bách thích gặp kim, gặp nó là đại quý. Ngoài ra còn có một loại mệnh cách gọi là “ Thượng tùng đông tú” tức là ba trụ tháng ngày giờ thuộc đông tức ( Nhâm quý hợi tý thuộc đông). Mệnh cách này là mệnh phú quý."
+      },
+      {
+        "Id": 15,
+        "Alias": "nham-thin, quy-ty",
+        "Name": " Trường Lưu Thủy",
+        "Describe": "Thìn trong ngũ hành là nơi tích trữ nước, tỵ trong ngũ hành là nơi sinh kim. Trong ngũ hành kim sợ thủy, kim trong tỵ có hàm chất thủy, bởi vì nơi tích trữ thủy gặp kim sinh thủy, cho nên nguồn thủy liên tục không ngừng mà gọi là nước sông dài. Nước sông dài ở Đông nam lấy yên tĩnh làm quý. Nước sông dài thế có cuồn cuộn không dừng, kim có thể sinh thủy cho nên nước sông dài gặp kim là tốt. Nó sợ gặp thủy bởi thủy nhiều quá dễ gây úng lụt, đồng thời thổ thủy tương khắc gặp bính tuất đinh hợi canh tý tân sửu thổ thì khó tránh được tai họa, cần phải có kim sinh thủy ở lại ứng cứu. Ngoài ra, thủy hỏa cũng tương khắc nhưng cũng không tuyệt đối hẳn như thế. Nước sông dài gặp giáp thìn, ất hợi tuy giáp thìn và ất hợi có phân là lửa ngọn đèn và lửa trên núi. Nhưng thìn là rồng, rồng lại gặp thủy ý là rồng về biển mệnh,cách ngược lại là cực tốt."
+      },
+      {
+        "Id": 16,
+        "Alias": "giap-ngo, at-mui",
+        "Name": "Sa Trung Kim",
+        "Describe": "Ngọ là nơi đế vượng của hỏa trong ngũ hành. Hỏa vượng thì kim suy. Mùi là nơi có hỏa vượng suy yếu trong ngũ hành. Hỏa suy yếu kim mới có thể từng bước trưởng thành. Hỏa vừa suy, kim mới có hình, cho nên lực không thể lớn mạnh mà gọi là kim trong cát. Kim trong cát là kim mới bắt đầu hình thành chưa thể dùng được cho nên cần có hỏa để luyện. Nhưng hỏa quá vượng, mà hỏa vượng thì kim bại đồng thời cần phải có mộc lại khắc chế kim, khiến kim không thể tùy tiện mà thịnh suy. Đồng thời phải lấy hỏa trên núi, hỏa dưới núi, hỏa ngọn đèn tính ôn hòa lại luyện nó. Trong số mệnh cho rằng đây là mệnh cục của thiếu niên vinh hoa phú quý. Sa trung kim cần có thủy tĩnh, sơ nếu nước sông dài và nước biển lớn ngược lại đem vùi cát đi. Cho nên cần phối hợp với nước khe núi, nước trong suối và nước trên trời mới tốt. Kim trong cát cũng sợ gặp đất ven đường, cát trong đất và đất vó ngựa, vì sẽ bị nó chôn vùi."
+      },
+      {
+        "Id": 17,
+        "Alias": "binh-than, dinh-dau",
+        "Name": "Sơn Hạ Hỏa",
+        "Describe": "Thân là cửa mở xuống dưới đất, dậu là nơi về cửa thái dương. Một ngày đến chỗ đó là dần dần tối đi như mặt trời xuống núi. Cho nên, gọi là lửa dưới núi. Lửa dưới núi thực tế là chỉ mặt trời lúc buổ tối, mặt trời đã xuống núi thì tự nhiên gặp thổ gặp mộc là tốt. Nó là ánh sáng mặt trời vào đêm không thích gặp lửa sấm sét, lửa mặt trời và lửa đèn."
+      },
+      {
+        "Id": 18,
+        "Alias": "mau-tuat, ky-hoi",
+        "Name": "Bình Địa Mộc",
+        "Describe": "Ý nghĩa của mậu là đồng bằng, hợi là nơi sinh ra mộc. Cây sinh ở đồng bằng thì không thể là một quần thể lớn rộng mà chỉ là từng đám cây nhỏ, cho nên gọi nó là cây đồng bằng. Cây đồng bằng thích mưa nhưng không thích sương giá băng tuyết, nó cũng không thích nhiều đất mà cũng không thích rộng rãi, thường bị người chặt phá vì thế nên sợ kim, nếu gặp kim là bất lợi. Nó thích thủy thổ và mộc. Ngoài ra có một loại mệnh quý gọi “ Hàn cốc hồi xuân” tức là người sinh ở mùa đông, trong mệnh lại gặp dần mão. Hai chi này đều thuộc mộc nên gọi là sinh trưởng của cây trong mùa đông cũng là một loại mện quý."
+      },
+      {
+        "Id": 19,
+        "Alias": "canh-ty, tan-suu",
+        "Name": " Bích Thượng Thổ",
+        "Describe": "Sửu là chính vị của thổ trong ngũ hành. Nhưng tý là nơi thủy trong ngũ hành thịnh vượng. Thổ gặp phải thủy tràn lan mà biến thành bùn, cho nên chỉ có thể đắp đập mà gọi là đất trên tường. Đất trên tường dùng để làm nhà, đầu tiên phải dựa vào xà cột cho nên gặp mộc sẽ tốt, gặp hỏa thì xấu, gặp thủy cũng là mệnh hay nhưng trừ gặp nước biển lớn. Còn với kim thì chỉ thích kim bạc kim."
+      },
+      {
+        "Id": 20,
+        "Alias": "giap-thin, at-ty",
+        "Name": "Phú Đăng Hỏa",
+        "Describe": "Thìn là trời đã sáng, tỵ là sắp đến buổi trưa. Mặt trời tỏa sáng thiên hạ không cần phải đốt đèn chiếu sáng, cho nên bị xem là lửa ngọn đèn, ánh sáng của đèn lung linh, cây đèn chiếu sáng đến những nơi mặt trời mặt trăng không thể chiếu sáng tới được. Lửa ngọn đèn chính là lửa chiếu sáng ban đêm, nó không tách khỏi được với gỗ và dầu. Dầu trong ngũ hành thuộc thủy chi nên ngọn đèn gặp mộc gặp thủy là tốt. Đêm chủ âm do đó lửa ngọn kỵ mặt trời. Lửa ngọn đèn có hai loại mệnh quý, một là “ Che đèn thêm dầu” chỉ lửa ngọn đèn gặp nước dưới giếng nước dưới khe, nước sông dài. Và một loại “ Dưới đèn múa kiếm” chỉ lửa ngọn đèn gặp kiếm phùng kim. Ngoài ra lửa ngọn đèn còn sợ gặp thổ trong ngũ hành chỉ trừ Bính tuất đinh hợi. Đất mái nhà. Nó cũng thích hỏa nhưng trừ lửa sấm sét là lửa rồng thần tất phải có gió thổi làm tắt lửa đèn."
+      },
+      {
+        "Id": 21,
+        "Alias": "nham-dan, quy-mao",
+        "Name": " Kim Bạc Kim",
+        "Describe": "Dần mão ngũ hành thuộc mộc, là nơi mộc vượng. Mộc vượng thì kim bị gầy yếu. Kim trong ngũ hành tuyệt ở dần, thai ở mão. Tóm lại Kim ở đây mềm yếu không có lực cho nên gọi là kim loại trang sức. Mọi người dùng kim bạc kim làm đồ trang sức, người xưa dùng nó để phủ chữ trong các đền chùa và các đồ khí cụ khác, ánh sáng của nó đẹp đẽ tôn quý nguồn gốc của nó là do kim gia công mà thành. Kim bạc kim gặp đất trên thành, đất trên tường mới có cơ hội phát triển. Trong sách nói mệnh kim gặp mậu dần, đất trên thành gọi là “ Viên ngọc núi Côn Sơn”. Quý mão trong kim bạc kim gặp kỷ mão gọi “ Thổ ngọc đông thăng” đều là mệnh quý."
+      },
+      {
+        "Id": 22,
+        "Alias": "binh-ngo, dinh-mui",
+        "Name": "Thiên Hà Thủy",
+        "Describe": "Bính đinh thuộc hỏa, ngọ là nơi ngũ hành hỏa vượng nhưng nạp âm gọi thủy. Thủy từ trong hỏa sinh ra cho nên xem như nước trên trời. Nguyên khí lên cao khí thế sung túc hóa thành mây mù rơi xuống thành mưa. Nó có công lao thúc đẩy sự sinh trưởng vạn vật. Nước trên trời vốn ở trên cao, cho nên kim mộc thủy hỏa thổ ở dưới đất không thể khắc chế được. Duy chỉ có canh tý tân mùi là đất trên tường là tương xung với nó."
+      },
+      {
+        "Id": 23,
+        "Alias": "mau-than, ky-dau",
+        "Name": "Đại Dịch Thổ",
+        "Describe": "Than là quẻ khôn, quẻ khôn trong bát quái ý nghĩa là đất. Dậu là quẻ Đoài, quẻ Đoài ý nghĩa trong bát quái là đầm ao. Mậu kỷ trong ngũ hành thuộc thổ, nó ở trên mặt đất ao hồ giống như bụi bay trong không khí. Cho nên gọi nó là đất dịch chuyển. Nguyên khí dần dần hồi phục, vạn vật sinh mệnh thu lại đều giống như đất dịch chuyển quay về với mặt đất. Đất dịch chuyển thuộc mệnh cách tương đối cao quý, nó đại biểu cho khuynh hướng quay về với bản tính. Đất chuyển dịch thích nước tương đối thanh tĩnh như nước giếng, nước dưới khe, nước sông dài. Nó cũng thích kim thanh tú như kim trang sức, kim loại trắng. Có một số can chi khí vượng thế mạnh nó gặp phải bị vùi chon như nước biển lớn, lửa trên núi, lử dưới núi, lửa ngọn đèn…Gặp phải lửa sấm sét đành phải dùng thủy hóa giải. Nhưng vật cực tất phản mệnh, cách khắc này ngược lại thành quý."
+      },
+      {
+        "Id": 24,
+        "Alias": "canh-tuat, tan-hoi",
+        "Name": "Thoa Xuyến Kim",
+        "Describe": "Ngũ hành kim suy yếu tại tuất, bệnh tại hợi. kim đã suy yếu lại bệnh, cho nên rất mềm yếu mà gọi kim là trang sức. Kim trang sức là vàng bạc liệu có phú quý không? Không nhất định như vậy. Vạn vật cái quý nhất là được bản tính tự nhiên. Cho nên kim trang sức là vật để đeo trang sức đương nhiên đã bị làm tổn thương. Kim trang sức sợ gặp hỏa, thích gặp nước giếng, nước khe núi, nước trong suối, nước sông dài là tốt. Nhưng sợ gặp nước biển lớn ví như đá rơi đáy biển. Ngoài ra nó còn thích cát trong đất bởi vì thổ có thể sinh kim."
+      },
+      {
+        "Id": 25,
+        "Alias": "nham-ty, quy-suu",
+        "Name": "Tang Thạch Mộc",
+        "Describe": "Ngũ hành tý thuộc thủy, ngũ hành sửu thuộc thổ sinh kim. Thủy có thể làm cho mộc sinh trưởng tươi tốt nhưng kim lập tức có thể chặt nó. Nó giống như cây dây vừa mới sinh trưởng đã bị người ta chặt, cho nên gọi nó là gỗ cây dâu. Quá trình sinh trưởng của cây dâu nếu gặp cát trong đất, đất ven đường, đất chuyển dịch nơi sinh nó thì rất tốt. Gặp nước sông dài, nước dưới khe, nước trong suối sẽ giúp bỏ nó tươi tốt. Nếu gặp Canh dần Tân mão gỗ cây tùng bách, đây gọi là mạnh yếu giúp nhau, gặp gỗ cây liễu người ta gọi “ Dâu liễu thành rừng” là cảnh an cư lập nghiệp. Gặp gỗ rừng lớn giống như nhánh sông gặp dòng sông là rất tốt. Chỉ có gặp gỗ đồng bằng, gỗ cây lựu sẽ bị tàn phá chèn ép là xấu."
+      },
+      {
+        "Id": 26,
+        "Alias": "giap-dan, at-mao",
+        "Name": "Đại Khê Thủy",
+        "Describe": "Dần mão thuộc phương Đông, dần là nơi gió đông thịnh vượng. Mão ở chính Đông, nếu nước hướng chảy chính Đông thì tha hồ thỏa thích trên đường tụ hội thành dòng chảy ra sông mà gọi là nước suối lớn. Nước suối lớn cần chảy về biển mà điều quan trọng là chảy lien tục không dứt. Do đó nước suối lớn nên gặp kim sinh thủy giúp. Nếu gặp các loại thổ khác và phải sinh mộc đều không hay. Chỉ có Nhâm tý, Quý sửu là núi, lại gặp nước, trong sách gọi “ Nước chảy quanh núi” mới là cục mệnh quý."
+      },
+      {
+        "Id": 27,
+        "Alias": "binh-thin, dinh-ti",
+        "Name": "Sa Trung Thổ",
+        "Describe": "Thổ trong ngũ hành mộ ở thin, tuyệt ở tỵ. Bính đinh ngũ hành thuộc hỏa trưởng thành tại thìn, hiển thân tại tỵ. Thổ này ở thế mộ tuyệt nhưng hỏa lại vượng khiến cho nó có thể làm lại mới tât cả. Nó giống như những đốm tro khi đốt bay lên rồi rơi xuống thành thổ, cho nên gọi là cát trong đất. Cát trong đất có kim là quý, lại cần nước trong mà lọc kim ra, cho nên gặp nước gặp kim là quý. Nó thích gặp lửa trên trời có ánh thái dương bãi cát chạy dài cảnh mới đẹp. Nó lại thích gỗ cây dâu cây dương liễu, vì hai loại gỗ này cát mới có thể trồng nó, ngoài ra gặp các loại mộc, khác đều không tốt."
+      },
+      {
+        "Id": 28,
+        "Alias": "mau-ngo, ky-mui",
+        "Name": "Thiên Thượng Hỏa",
+        "Describe": "Ngọ là giai đoạn cực thịnh vượng của hỏa trong ngũ hành, mà mùi, kỷ là nơi mộc sinh trưởng khiến cho thế hỏa càng vượng. Hỏa mạnh bốc cao mà gọi lửa trên trời, lửa trên trời là mặt trời nên thích gặp mộc, thủy, kim để điều hòa phối hợp biến hóa khiến cho thủy tưới mộc tươi tốt, mộc giúp hỏa bốc cháy. Nó thích lửa ngọn đèn ngoài ra với các hỏa khác đều tương khắc. Nó lại thích gặp thổ, nếu có kim mộc thì hình thành một mệnh cực quý. Lửa trên trời nếu đơn độc với thủy thì dễ hình thành thủy hỏa tương khắc."
+      },
+      {
+        "Id": 29,
+        "Alias": "canh-than, tan-dau",
+        "Name": "Thạch Lựu Mộc",
+        "Describe": "Thân đại biểu cho tháng 7, dậu đại biểu cho tháng 8. Khi này cây cối đã bắt đầu tàn lụi, chỉ có cây thạch lựu là kết trái mà gọi là canh thân tân dậu là gỗ cây lựu. Thứ cây này vào mùa thu kết trái cho nên tính mộc cứng rắn, với thủy mộc thổ kim qua lại có thể hòa hợp thành tốt. Duy chỉ có nước biển lớn thế thủy ào ạt gặp nó sẽ bần cùng bệnh tật. Có thể gặp lửa trên trời, lửa sấm sét, lửa trong lò cũng tốt, nhưng hỏa ấy sẽ dự báo điềm xấu. Gỗ thạch lựu thường bao hàm mệnh quý như sinh tháng 5 là ngày trụ hoặc giờ trụ lại có mang một hỏa thì gọi “ Thạch lựu phun lửa”. Gỗ gặp cây dương liễu gọi “ Hoa hồng liễu xanh”."
+      },
+      {
+        "Id": 30,
+        "Alias": "nham-tuat, quy-hoi",
+        "Name": "Đại Hải Thủy",
+        "Describe": "Thủy trong ngũ hành tại tuất là giai đoạn đã thành thục, tại hợi cũng là giai đoạn thành thục. Do đó thủy ở đây thế lực hùng hậu, đồng thời ngũ hành của hợi thuộc thủy đại biểu ý nghĩa của sông đổ ra biển, cho nên gọi nó là nước biển lớn. Biển cả mênh mông thế vô cùng tận không có gì có thể so sánh được. Nó là nơi quy tụ của các con sông, cho nên các loại nước trên trời, nước sông dài, nước suối lớn…gặp nước biển lớn đều tốt. Nhâm thìn trong nước sông dài phối hợp với nước biển lớn gọi “ Rồng quay về biển” mệnh này phú quý một đời không ai so nổi. Trong hỏa nó thích lửa trên trời vì mặt trời mọc ở biển Đông. Trong kim nó thích kim đáy biển, trong mộc nó thích gỗ cây dâu, gỗ cây dương liễu, trong thổ nó thích đất dịch chuyển và đất bên đường. Ngoài ra tất cả đều không chịu nổi nước biển lớn gặp nhau tất sẽ lớn, như nước biển lớn gặp lửa sấm sét tạo thành thế nước sung hãn, phong ba bão táp, mệnh người như vậy một đời lao khổ. Cho nên cần phải có thế núi hùng hậu để trấn giữ biển."
+      }
+    ]
+  }
+]
