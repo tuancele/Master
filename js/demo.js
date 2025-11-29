@@ -1,5 +1,5 @@
-$(document).ready(function() {
-
+(function($) {
+    $(document).ready(function() {
 	var example = $('[data-mrc]');
 
 	example.on('beforeInitSwitch.mrc', function(e, inst, sets) {
@@ -119,3 +119,4 @@ $(document).ready(function() {
 	*/
 
 });
+})(jQuery);

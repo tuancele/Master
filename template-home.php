@@ -1,4 +1,4 @@
-<?php /* Template Name: Homepage Template */ get_header(); ?>
+<?php /* Template Name: TRANG CHỦ COUNDOWS */ get_header(); ?>
 
                 
 <?php if (have_posts()): while (have_posts()) : the_post(); ?>

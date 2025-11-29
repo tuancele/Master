@@ -11,6 +11,44 @@
     MAIN
 \*------------------------------------*/
 
+/* ==========================================================================
+   1. KHAI BÁO FONT GOOGLE SANS (Load từ thư mục theme của bạn)
+   ========================================================================== */
+@font-face {
+    font-family: 'Google Sans';
+    src: url('fonts/GoogleSans-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Google Sans';
+    src: url('fonts/GoogleSans-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Google Sans';
+    src: url('fonts/GoogleSans-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ==========================================================================
+   2. ÁP DỤNG CHO TOÀN BỘ WEBSITE (Ghi đè tất cả font khác)
+   ========================================================================== */
+body, 
+h1, h2, h3, h4, h5, h6, 
+p, a, span, div, li, 
+input, button, select, textarea, 
+.title, .heading, .menu-item a {
+    font-family: 'Google Sans', sans-serif !important;
+}
+
 
 .mm-slideout{z-index: initial;}
 .footer{    background: #f5f5fa;margin-bottom: -30px;}

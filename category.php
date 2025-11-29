@@ -161,29 +161,38 @@
 </script>
 <?php } ?>
 
-<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<?php // XÓA: <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script> ?>
 <script>
+    // Định nghĩa nonce một cách an toàn
+    var ajax_nonce = '<?php echo wp_create_nonce("ajax-nonce"); ?>';
+
     var timeout = null; // khai báo biến timeout
-    $(".search-ajax").keyup(function(){ // bắt sự kiện khi gõ từ khóa tìm kiếm
-        clearTimeout(timeout); // clear time out
-        timeout = setTimeout(function (){
-           call_ajax(); // gọi hàm ajax
-        }, 500);
+    
+    // Đảm bảo code chạy sau khi jQuery của WordPress đã tải
+    jQuery(document).ready(function($) {
+        $(".search-ajax").keyup(function(){ // bắt sự kiện khi gõ từ khóa tìm kiếm
+            clearTimeout(timeout); // clear time out
+            timeout = setTimeout(function (){
+               call_ajax(); // gọi hàm ajax
+            }, 500);
+        });
     });
+
     function call_ajax() { // khởi tạo hàm ajax
-        var data = $('.search-ajax').val(); // get dữ liệu khi đang nhập từ khóa vào ô
-        $.ajax({
+        var data = jQuery('.search-ajax').val(); // get dữ liệu khi đang nhập từ khóa vào ô
+        jQuery.ajax({
             type: 'POST',
             async: true,
             url: '<?php echo admin_url('admin-ajax.php');?>',
             data: {
                 'action' : 'Post_filters', 
-                'data': data
+                'data': data,
+                'nonce': ajax_nonce // <-- THÊM NONCE VÀO ĐÂY
             },
             beforeSend: function () {
             },
             success: function (data) {
-                $('#load-data').html(data); // show dữ liệu khi trả về
+                jQuery('#load-data').html(data); // show dữ liệu khi trả về
             }
         });
     }
